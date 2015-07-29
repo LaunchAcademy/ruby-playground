@@ -1,0 +1,8 @@
+---
+title: "Favorite Rides"
+type: "exercise"
+description: "Use input and output to share your favorite rides with friends"
+tags: "input/output"
+visibility: "subscribe"
+ignore:
+- "best_rides.md"
