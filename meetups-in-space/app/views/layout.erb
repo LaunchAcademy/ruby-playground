@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meetups</title>
+  <link rel="stylesheet" href="stylesheets/normalize.css" />
+  <link rel="stylesheet" href="stylesheets/app.css" />
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="container">
+    <a class="logo" href="/">Meetups in Space</a>
+
+    <ul class="top-bar-section">
+      <% if signed_in? %>
+        <li>Signed in as <%= current_user.username %></a></li>
+        <li><a href="/sign_out">Sign out</a></li>
+      <% else %>
+        <li><a href="/auth/github">Sign in</a></li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+
+<% if flash.any? %>
+  <div class="flash">
+    <div class="container">
+      <%= flash[:notice] %>
+    </div>
+  </div>
+<% end %>
+
+<div class="container">
+  <%= yield %>
+</div>
+
+</body>
+</html>

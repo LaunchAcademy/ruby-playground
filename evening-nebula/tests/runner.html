@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Mocha Tests</title>
+
+  <link rel="stylesheet" href="/node_modules/mocha/mocha.css" />
+
+</head>
+<body>
+  <div id="mocha"></div>
+  <div id="test"></div>
+
+  <!-- load deps -->
+  <script src="/node_modules/jquery/dist/jquery.js"></script>
+  <script src="/node_modules/underscore/underscore.js"></script>
+  <script src="/node_modules/chai/chai.js"></script>
+  <script src="/node_modules/mocha/mocha.js"></script>
+  <script src="/node_modules/sinon/pkg/sinon.js"></script>
+
+  <!-- run tests -->
+  <script>
+    window.expect = chai.expect;
+    mocha.setup('bdd');
+    window.onload = function() {
+      mocha.run()
+    };
+  </script>
+
+  <!-- load tests and answers -->
+
+  <script src="/tests/app/eveningExercise.js"></script>
+  <script src="/app/eveningExercise.js"></script>
+
+  <!-- livereload snippet -->
+  <script src="http://localhost:35729/livereload.js"></script>
+</body>
+</html>

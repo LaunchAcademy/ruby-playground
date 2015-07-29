@@ -1,0 +1,7 @@
+---
+title: "Hex to Decimal"
+type: "exercise"
+description: "Write a method that converts a given hexadecimal number to decimal a decimal number."
+visibility: "onsite"
+ignore:
+- "hex-to-decimal.md"

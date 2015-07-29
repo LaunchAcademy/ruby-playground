@@ -1,0 +1,8 @@
+---
+title: "Amazon Orders"
+type: "challenge"
+description: "Write Ruby classes to represent online orders."
+depends: "space-jams"
+visibility: "onsite"
+ignore:
+- "amazon-orders.md"

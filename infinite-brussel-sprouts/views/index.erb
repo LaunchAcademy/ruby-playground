@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Brussel Feed</title>
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+
+  <body>
+    <h1>What's trending in the world of Brussel Sprouts</h1>
+
+    <ul class="tweets">
+      <% tweets.each do |tweet| %>
+        <li class="tweet">
+          <div class="body"><%= tweet[:text] %></div>
+          <div class="user"><%= tweet[:username] %></div>
+        </li>
+      <% end %>
+    </ul>
+
+    <% if !tweets.empty? %>
+      <a href="/tweets?page=<%= page + 1 %>" class="more-sprouts">More sprouts please...</a>
+    <% end %>
+
+    <script src="/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="/js/sprouts.js"></script>
+  </body>
+</html>

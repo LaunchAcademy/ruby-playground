@@ -1,0 +1,7 @@
+---
+title: "Uniques"
+type: "exercise"
+description: "Find the unique elements of a list without using .uniq."
+visibility: "onsite"
+ignore:
+- "uniques.md"

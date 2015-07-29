@@ -1,0 +1,10 @@
+{
+  "students": [
+    { "name": "Julian", "grades": [75, 80, 68, 77] },
+    { "name": "Bubbles", "grades": [92, 98, 82, 98] },
+    { "name": "Ricky", "grades": [0, 0, 0, 5] },
+    { "name": "Randy", "grades": [81, 52, 66, 90] },
+    { "name": "Lucy", "grades": [74, 90, 88, 81] },
+    { "name": "J-Roc", "grades": [51, 1, 48, 23] }
+  ]
+}

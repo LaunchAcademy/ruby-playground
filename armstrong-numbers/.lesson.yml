@@ -1,0 +1,7 @@
+---
+title: "Armstrong Numbers"
+type: "exercise"
+visibility: "onsite"
+description: "Write a method that determines whether or not a given number is an Armstrong number."
+ignore:
+- "armstrong-numbers.md"

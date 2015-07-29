@@ -1,0 +1,8 @@
+---
+title: "Anagrams"
+type: "exercise"
+description: "Find all of the anagrams in a wordlist."
+visibility: "onsite"
+ignore:
+- "anagrams.md"
+- "wordlist.txt"

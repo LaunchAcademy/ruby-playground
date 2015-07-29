@@ -1,0 +1,7 @@
+---
+title: "Shakespeare"
+type: "exercise"
+description: "Find out how common different words are in a document."
+visibility: "onsite"
+ignore:
+- "shakespeare.md"

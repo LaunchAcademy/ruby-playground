@@ -1,0 +1,9 @@
+---
+title: "Spell Checker"
+type: "challenge"
+description: "Ottomatically correckt mispeled centences."
+depends: "word-counter"
+visibility: "onsite"
+ignore:
+- "spellchecker.md"
+- "lotsowords.txt"

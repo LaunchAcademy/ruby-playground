@@ -1,0 +1,7 @@
+---
+title: "Simple Sort"
+type: "exercise"
+description: "Write a Ruby program that sorts numbers."
+visibility: "onsite"
+ignore:
+- "simple-sort.md"

@@ -1,0 +1,7 @@
+---
+title: "Common Words"
+type: "exercise"
+description: "Find the most common words in a chunk of text."
+visibility: "onsite"
+ignore:
+- "common-words.md"

@@ -1,0 +1,6 @@
+---
+title: "Ajax"
+type: "article"
+visibility: "onsite"
+description: "Describes how Ajax can be used to transfer data with a server asynchonously while avoiding refreshing the page."
+tags: "javascript, ajax, jquery, json"

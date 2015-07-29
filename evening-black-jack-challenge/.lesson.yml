@@ -1,0 +1,8 @@
+---
+title: "Testing Black Jack Score"
+type: "challenge"
+description: "Learn the basics of RSpec Unit Testing by creating a core blackjack method"
+depends: "none"
+visibility: "onsite"
+ignore:
+- "evening-black-jack-challenge.md"

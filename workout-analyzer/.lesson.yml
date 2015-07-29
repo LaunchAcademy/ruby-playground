@@ -1,0 +1,9 @@
+---
+title: "Workout Analyzer"
+type: "challenge"
+description: "More practice on object-oriented design"
+depends: "space-jams"
+visibility: "onsite"
+ignore:
+- "workout-analyzer.md"
+- "workouts.csv"

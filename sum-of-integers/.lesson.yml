@@ -1,0 +1,7 @@
+---
+title: "Sum of Integers"
+type: "exercise"
+description: "Sum up some integers from a file."
+visibility: "onsite"
+ignore:
+- "sum-of-integers.md"

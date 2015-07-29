@@ -1,0 +1,9 @@
+---
+title: "Grade Averages"
+type: "challenge"
+description: "Calculate the average, max, and min grades for a list of students."
+depends: "pig-latin-translator"
+visibility: "onsite"
+ignore:
+- "grade-averages.md"
+- "students.json"
