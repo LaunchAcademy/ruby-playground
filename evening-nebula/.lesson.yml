@@ -1,9 +1,0 @@
----
-title: "Evening Nebula"
-type: "challenge"
-description: "Learn JS basics by getting a test suite to pass."
-visibility: "assign"
-ignore:
-  - "evening-nebula.md"
-
-
