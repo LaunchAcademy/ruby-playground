@@ -1,9 +1,0 @@
----
-title: "Infinite Brussel Sprouts"
-type: "challenge"
-description: "Get all of your Brussel Sprout updates without the exhausting process of refreshing your page."
-tags: "javascript, jquery, ajax, json, sinatra, api, infinite-scroll, brussel-sprouts"
-depends: "guess-the-number-form"
-visibility: "assign"
-ignore:
-- "infinite-brussel-sprouts.md"

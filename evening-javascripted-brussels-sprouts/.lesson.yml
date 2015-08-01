@@ -1,9 +1,0 @@
----
-title: "JavaScripted Brussels Sprouts"
-type: "challenge"
-description: "An introduction to the basics of JavaScript syntax through Brussels Sprouts recipes"
-depends: "rock-paper-scissors"
-visibility: "assign"
-ignore:
-- "evening-javascripted-brussels-sprouts.md"
-- "solution.html"
