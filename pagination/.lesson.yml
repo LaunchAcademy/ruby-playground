@@ -1,0 +1,8 @@
+---
+title: "Pagination"
+type: "challenge"
+description: "Write a method to determine the number of pages of results to display."
+depends: "grade-averages"
+ignore:
+- "pagination.md"
+- "pagination_spec.rb"
