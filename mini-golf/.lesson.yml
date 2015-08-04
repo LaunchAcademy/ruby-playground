@@ -3,5 +3,6 @@ title: "Mini Golf"
 type: "exercise"
 description: "Read in a CSV of mini golf scores and print them out."
 visibility: "onsite"
+tags: "csv, ruby"
 ignore:
 - "mini-golf.md"
