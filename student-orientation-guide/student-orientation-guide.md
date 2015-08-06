@@ -54,6 +54,10 @@ Thank you for helping us to keep Mission Control a clean, welcoming environment 
 
 ###Need-to-Know Information
 ####Building
+**Building Hours:**  
+Monday-Friday: 	7:00am - 10:00 pm  
+Weekends:	8:00am -  5:00pm	(FOBs required for access)
+
 - **Restrooms:** There are keys hung up on the wall by the front door (5 for 5th Floor, 6 for 6th Floor). Occasionally the restroom doors are locked so you may use these to unlock them. Just as you would our suite space, please keep these tidy as we want to be sure any prospective hiring partners have clean bathrooms to visit as well.
 If doors are locked, unlock them and keep them unlocked- we play a little game with our neighbors and like to win here :)
 To access the 6th Floor bathroom, you must use the elevator
@@ -76,22 +80,18 @@ To access the 6th Floor bathroom, you must use the elevator
 [Back to top](#)
 
 ####General Mission Control Items
+- **Internet:**
+WiFi Networks: Launch Academy
+Password: MakeNoBugs!
 - **White boards:** If you do not want your work erased, please mark it clearly; otherwise the cleaning crew will erase it each evening.
 - **HVAC/Heat:** No one other than staff is allowed to touch the thermostat or heat valves. Bring layers!
 - **Courtesy in the work areas:** Use headphones if you want to listen to music during individual exercises - no noisy video or music in the work area. Silence your phones (keep them on vibrate), and take calls away from the work area. No loud voices. No strong fragrances.
 - **Greeting visitors:** If you are nearest to a visitor when they enter Mission Control, please welcome them, ask for their name (and introduce yourself), and walk them to the appropriate staff member’s office. Should he/she not be at her desk, have them take a seat on the couches and alert the Operations Manager. Act as if Launch Academy is your company and a guest has just arrived.
-- **Internet:**
-WiFi Networks: Launch Academy
-Password: MakeNoBugs!
 
 [Back to top](#)
 
 ####Keys and FOBs
 Everyone will receive a key to the suite and a FOB to access the elevator off-hours. Building hours are posted by the side door so take note of these and lock up if you are the last to leave the suite at night. **Keys and FOBs are due back to the Operations Manager’s desk the Friday after Career Day by noon!**
-
-**Building Hours:**  
-Monday-Friday: 	7:00am - 10:00 pm  
-Weekends:	8:00am -  5:00pm	(FOBs required for access)
 
 If the doors are locked in the front of the building or the gate is not up at these times, contact Whitney via Slack 1-to-1.
 
@@ -130,12 +130,12 @@ One of the many fantastic parts of Launch Academy are the Career Services you’
 To maintain access to Launch's Career Services, it's important to make sure you keep on top of the things Corinne needs from you. Here's a summary of what you'll need to do during and after the cohort. More information will be forthcoming as these requirements arise!
 
 ###Pre-Career Day
-- Complete Parts 1 & 2 of the Launcher Profile
-- Participate in a One Hour Office Hour Appointment with Whitney
-- Complete Mock Technical Interview
-- Attend at Least One Office Hours Appointment with Corinne for Resume Review
-- Final Copy of Resume Due to Corinne by 5pm the Day Before Career Day
-- Resumes Printed and Brought to Both Career Days
+- Complete parts 1 & 2 of the Launcher profile
+- Participate in a one hour office hour appointment with Whitney
+- Complete mock technical interview
+- Attend at least one office hours appointment with Corinne for resume review
+- Final copy of resume due to Corinne by 5pm the day before career day
+- Resumes printed and brought to both Career Days
 
 ###Post-Career Day
 - Responding to Corinne’s emails within 24 hours (but, the earlier the better)
@@ -170,10 +170,10 @@ To maintain access to Launch's Career Services, it's important to make sure you 
 
 ###Week 8
 - Career Services Check-In Presentation with Corinne
+- Mock Interviews (Round 2)
 
 ###Week 9
 - Office Hours with Corinne to review resume/LinkedIn
-- Mock Interviews (Round 2)
 - Career Services Check-In Presentation with Corinne
 
 ###Week 10
@@ -186,10 +186,10 @@ To maintain access to Launch's Career Services, it's important to make sure you 
 
 ##Career Day
 
-Career day is a 2-day event that serves to showcase you and your classmates in front of a large number of awesome companies looking to hire. Towards the end of the cohort, you'll prepare a presentation on yourself and your breakable toy.
+Career day is a 2-day event that serves to showcase you and your classmates in front of a large number of awesome companies looking to hire. Towards the end of the cohort, you'll prepare a screencast to present yourself and your breakable toy.
 
 ###Career Day Timeline
-**Tuesday, April 28**  
+**Tuesday, October 20**  
 **7:30 a.m.:** Students arrive - put on your nametag and have something to eat!  
 **8:30 a.m.:** Career Day officially begins with breakfast; hiring partners trickle in  
 **9:00 a.m.  - 9:45 a.m.:** Opening Remarks and Partner Pitches  
@@ -197,18 +197,18 @@ Career day is a 2-day event that serves to showcase you and your classmates in f
 **12:15 p.m.:** Networking and lunch (until last hiring partner leaves Mission Control)  
 **2:00 p.m.:** Mission Control is closed to students for the remainder of the day - leave your nametag on the check-in table for Wednesday  
 
-**Wednesday, April 29**  
+**Wednesday, October 21**  
 **7:30 a.m. - 2:00 p.m.:** Same as Tuesday  
-**2:00 p.m.:** Have students send Corinne their lists of top hiring partners in ranked order as soon as the last hiring partners leaves Career Day  
+**2:00 p.m.:** Students send Corinne their lists of top hiring partners in ranked order as soon as the last hiring partners leaves Career Day  
 **2:00 - 6:00 p.m.:** Mission Control is closed to students prior to graduation.  
 **6:00 - 9:00 p.m.:** Graduation!  
 
-**Thursday, April 30**  
-**Post Career Day Information:** Corinne to send out email regarding Career Resources, Getting in Touch with Companies Not at Career Day, Debrief Form, and MC Access  
-**Students are asked to be accessible:** By both phone and email as Corinne may need to be in touch with them after she debriefs with our hiring partners.  
+**Thursday, October 22**  
+**Post Career Day Information:** Corinne will send out an email regarding; Career Resources, Getting in Touch with Companies Not at Career Day, Debrief Form, and MC Access  
+**Be accessible:** By both phone and email as Corinne may need to be in touch with you quickly after she debriefs with our hiring partners  
 **Tagging:** Tag partners who attended Career Day in Highrise  
 
-**Friday, May 1**  
+**Friday, October 23**  
 **Return borrowed items:** Keys and FOBs (and borrowed laptops) are due to Whitney’s desk by 12:00 p.m.  
 
 [Back to top](#)
@@ -221,35 +221,46 @@ Career day is a 2-day event that serves to showcase you and your classmates in f
 ~09:00 — Arrive at Mission Control  
 09:40 — Meet in Mentor Groups to discuss evening exercise from night before  
 10:30 — Facilitation (lecture on reading from night before)  
-11:15 — Post Facilitation Quiz  
-11:45 — Challenge Released / Lunch
+11:00 — Post Facilitation Quiz  
+11:05 — Daily Challenge Released / Lunch
 
 **Afternoons**
 Free work time  
-13:00 through 15:00 — Office Hours  
-15:00 — Clinic(s)  
-16:00 — Evening exercise released  
+1:00 through 3:00 — Office Hours  
+3:00  — Clinic(s)  
+3:00 — Evening exercise released  
 
 [Back to top](#)
 
 ##Curriculum Overview
+For details week-by-week check the [Curriculum Page](https://horizon.launchacademy.com/curriculum)
 
 **Weeks 1-2**  
-This time is partially an expansion upon what was learned in prework. We will reinforce programming fundamentals with Ruby and introduce the basics of web development using the Sinatra web framework.
+- Reinforce programming fundamentals with Ruby and OOP
+- Introduce the basics of web development using the Sinatra web framework
+- Go over fundamentals of the HTTP cycle of web apps
+- Deep dive into understanding Javascript, a core web language
 
 **Weeks 3-4**  
-Weeks 3-4 focus on object-oriented program design and persistence with databases. You will learn how to use and design classes in Ruby and discover why they're useful. You will also learn how to use SQL to interact with relational databases.
+- Master database usage and design
+- Learn SQL to interact with relational databases
+- Deploy to Heroku
+- Write classes with OOP and dive into object inheritance
+- Implement Test Driven Development
 
 **Weeks 5-6**  
-This time is oriented around introducing Ruby on Rails, starting with introducing ActiveRecord as a Rails building block.
+- Learn about ActiveRecord as a Rails building block
+- Begin building in Ruby on Rails framework and understanding conventions to build fully scalable web applications
 
 **Weeks 7-8**  
-This period is group project time, during which we will study popular, third party libraries to support user authentication, file uploads, pagination, and other topics in web development.
+- Group projects build review website
+- Learn/apply popular third party libraries to support user authentication, file uploads, pagination, and other topics in web development
 
 **Weeks 9-10**  
-Weeks 9-10 are intentionally light in terms of new material and has an extensive project orientation. During this time, you will work on your Breakable Toy, which will serve as your final and culminating project.
-
-We will hold technical workshops for material that requires reinforcement, but all planned educational material will be oriented around preparing you for the job interview.
+- Build and Learn through Breakable Toy: your final and culminating project!
+- Prepare for job search with Computer Science and Algorithmic topics
+- Finalize Career Prep materials
+Weeks 9-10 are intentionally light in terms of new material and has an extensive project orientation. We will hold technical workshops for material that requires reinforcement, but all planned educational material will be oriented around preparing you for the job interview.
 
 [Back to top](#)
 
@@ -257,22 +268,22 @@ We will hold technical workshops for material that requires reinforcement, but a
 
 Staff at Launch Academy have a lot of varied responsibilities, so it's important that we all organize our time carefully.
 
-When E.E.s are "off the floor" - i.e., in the E.E. lounge or the pairing office in the back of the room, they aren't available to answer technical questions. Both spaces are off-limits to students.
+When EEs are "off the floor" - i.e., in the EE lounge or the pairing office in the back of the room, they aren't available to answer technical questions. Both spaces are off-limits to students.
 
-For day-to-day technical questions, ask one of the two E.E.s who are on the floor every afternoon. You can also visit office office hours by signing up on the sheet of paper on the back picnic tables.
+For day-to-day technical questions, ask one of the two EEs who are on the floor every afternoon. You can also visit office hours by signing up on the sheet of paper on the back picnic tables.
 
-In reference to broader concerns than your day-to-day technical questions, you should definitely feel comfortable getting in touch with your mentor! They are here to support you.
+In reference to broader concerns than day-to-day technical questions, you should definitely feel comfortable getting in touch with your mentor - slack is usually a great place to find them! They are here to support you.
 
 [Back to top](#)
 
 ##Important Dates
 
-**Mon, 5/25:** Memorial Day - day off!  
-**Fri, 7/3:** Independence Day (almost) - day off!  
-**Tues, 7/28 - Weds, 7/29:** Career Day
+**Mon, 9/7:** Labor Day - MC is closed, no daily schedule  
+**Mon, 7/3:** Columbus Day - MC is closed, no daily schedule  
+**Tues, 7/28 - Weds, 7/29:** Career Days
 
 ##Launcher Lunches
-Launcher Lunches are a weekly chance for the staff to receive feedback directly from the students. Each Wednesday at noon, two EEs and five students will go out to lunch together and discuss how the program is going. Invites will be distributed via email so you know which week you are attending!
+Launcher Lunches are a weekly chance for the staff to receive feedback directly from the students. Each Wednesday at noon, two EEs and a small group of students will go out to lunch together and discuss how the program is going. Invites will be distributed via slack so you know which week you are attending!
 
 ##Absences
 
@@ -331,7 +342,7 @@ Your [Horizon Dashboard](https://horizon.launchacademy.com/dashboard) serves as 
 
 The [questions queue](https://horizon.launchacademy.com/questions) will serve as your primary way of getting assistance from staff members. When stuck on a problem, make sure to search Horizon (via the topbar) to see if anyone else has asked a relevant question.
 
-After reading the **[guide on solving problems and asking questions](asking-questions-at-launch)**, if you still can't solve your problem, add a question on Horizon. An EE will either provide a possible answer, comment requesting more info, or add your question to the **Question Queue**.
+After reading the **[guide on solving problems and asking questions](asking-questions-at-launch)**, if you still can't solve your problem after about 20 minutes of being stuck, add a question on Horizon. An EE will either provide a possible answer, comment requesting more info, or add your question to the **Question Queue**.
 
 The Question Queue is a list of questions in line to get in-person help from an EE. When it's your turn, you and an EE will work together to solve the problem. Once solved, write out the answer on your Horizon question so that others can benefit in the future!
 
