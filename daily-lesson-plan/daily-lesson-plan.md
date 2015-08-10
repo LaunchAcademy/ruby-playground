@@ -7,3 +7,4 @@
   - [Asking Questions at Launch](https://learn.launchacademy.com/lessons/asking-questions-at-launch)
   - Afternoon Challenge: [Leaderboard](https://learn.launchacademy.com/lessons/leaderboard)
   - Evening Reading: [HTTP](https://learn.launchacademy.com/lessons/http)
+  - Evening Exercise: None! Look over all the above reading, and finish up Leaderboard.
