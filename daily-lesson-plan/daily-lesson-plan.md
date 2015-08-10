@@ -1,3 +1,5 @@
+# Week 1
+
 #
 * Mon 8/10
   - [Student Orientation Guide](https://learn.launchacademy.com/lessons/student-orientation-guide)
