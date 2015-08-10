@@ -1,6 +1,7 @@
 #
-* Mon 5/18
+* Mon 8/10
   - [Student Orientation Guide](https://learn.launchacademy.com/lessons/student-orientation-guide)
-  - <a href="www.google.com" target="_blank">Cultural Agreement</a>
+  - [Cultural Agreement](https://learn.launchacademy.com/lessons/cultural-agreement)
+  - [Asking Questions at Launch](https://learn.launchacademy.com/lessons/asking-questions-at-launch)
   - Afternoon Challenge: [Leaderboard](https://learn.launchacademy.com/lessons/leaderboard)
   - Evening Reading: [HTTP](https://learn.launchacademy.com/lessons/http)
