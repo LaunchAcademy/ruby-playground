@@ -1,10 +1,29 @@
 # Week 1
 
 #
+* Fri 8/14
+  - Systems Check: TBA
+  - Afternoon/Weekend Challenge: TBA
+  - Weekend Reading: [Intro to Javasctip](https://learn.launchacademy.com/lessons/intro-to-javascript)
+  - Evening Exercise: TBA
+
+#
+* Thurs 8/13
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Sessions](https://learn.launchacademy.com/lessons/sessions)
+  - Evening Exercise: None! Rest up and review for the systems check.
+
+#
+* Weds 8/12
+  - Afternoon Challenge: TBA
+  - Evening Reading: [HTTP Post and HTML Forms](https://learn.launchacademy.com/lessons/http-post-and-html-forms)
+  - Evening Exercise: TBA
+
+#
 * Tues 8/11
   - Afternoon Challenge: [HTTP Challenge](https://learn.launchacademy.com/lessons/http-challenge)
   - Evening Reading: [Dynamic Web Pages](https://learn.launchacademy.com/lessons/dynamic-web-pages)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Veggie Recipe Printer](https://learn.launchacademy.com/lessons/evening-veggie-recipe-printer)
 
 #
 * Mon 8/10
