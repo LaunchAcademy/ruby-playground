@@ -1,6 +1,12 @@
 # Week 1
 
 #
+* Tues 8/11
+  - Afternoon Challenge: [HTTP Challenge](https://learn.launchacademy.com/lessons/http-challenge)
+  - Evening Reading: [Dynamic Web Pages](https://learn.launchacademy.com/lessons/dynamic-web-pages)
+  - Evening Exercise: TBA
+
+#
 * Mon 8/10
   - [Student Orientation Guide](https://learn.launchacademy.com/lessons/student-orientation-guide)
   - [Cultural Agreement](https://learn.launchacademy.com/lessons/cultural-agreement)
