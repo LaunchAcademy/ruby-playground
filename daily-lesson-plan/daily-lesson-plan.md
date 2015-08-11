@@ -4,7 +4,7 @@
 * Fri 8/14
   - Systems Check: TBA
   - Afternoon/Weekend Challenge: TBA
-  - Weekend Reading: [Intro to Javasctip](https://learn.launchacademy.com/lessons/intro-to-javascript)
+  - Weekend Reading: [Intro to Javascript](https://learn.launchacademy.com/lessons/intro-to-javascript)
   - Evening Exercise: TBA
 
 #
