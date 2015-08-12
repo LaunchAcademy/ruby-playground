@@ -21,6 +21,7 @@
 
 #
 * Tues 8/11
+  - Facilitation: [Launch Tips](https://vimeo.com/135984101); [HTTP](https://vimeo.com/135984954); [Slides](https://github.com/radavis/slides)
   - Afternoon Challenge: [HTTP Challenge](https://learn.launchacademy.com/lessons/http-challenge)
   - Clinic: [Pair Programming](https://vimeo.com/136015628) (password is Fall!2015)
   - Evening Reading: [Dynamic Web Pages](https://learn.launchacademy.com/lessons/dynamic-web-pages)
