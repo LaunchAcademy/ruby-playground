@@ -15,7 +15,7 @@
 
 #
 * Weds 8/12
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Kickball Site](https://learn.launchacademy.com/lessons/kickball-site)
   - Evening Reading: [HTTP Post and HTML Forms](https://learn.launchacademy.com/lessons/http-post-and-html-forms)
   - Evening Exercise: TBA
 
