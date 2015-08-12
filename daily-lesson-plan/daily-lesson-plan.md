@@ -22,6 +22,7 @@
 #
 * Tues 8/11
   - Afternoon Challenge: [HTTP Challenge](https://learn.launchacademy.com/lessons/http-challenge)
+  - Clinic: [Pair Programming](https://vimeo.com/136015628) (password is Fall!2015)
   - Evening Reading: [Dynamic Web Pages](https://learn.launchacademy.com/lessons/dynamic-web-pages)
   - Evening Exercise: [Veggie Recipe Printer](https://learn.launchacademy.com/lessons/evening-veggie-recipe-printer)
 
