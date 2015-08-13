@@ -9,15 +9,16 @@
 
 #
 * Thurs 8/13
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [News Aggregator](https://learn.launchacademy.com/lessons/news-aggregator)
   - Evening Reading: [Sessions](https://learn.launchacademy.com/lessons/sessions)
   - Evening Exercise: None! Rest up and review for the systems check.
 
 #
 * Weds 8/12
   - Afternoon Challenge: [Kickball Site](https://learn.launchacademy.com/lessons/kickball-site)
+  - Clinic: [Atom Shortcuts] ([Notes](https://gist.github.com/cmkoller/23e9fc98484d12824736))
   - Evening Reading: [HTTP Post and HTML Forms](https://learn.launchacademy.com/lessons/http-post-and-html-forms)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Need the Ingredient](https://learn.launchacademy.com/lessons/evening-need-the-ingredients)
 
 #
 * Tues 8/11
