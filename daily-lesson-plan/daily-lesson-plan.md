@@ -3,7 +3,7 @@
 #
 * Fri 8/14
   - Systems Check: [Sinatra Grocery List](https://learn.launchacademy.com/lessons/grocery-list-sinatra)
-  - Afternoon/Weekend Challenge: TBA
+  - Afternoon/Weekend Challenge: [MMORPS](https://learn.launchacademy.com/lessons/mmorps)
   - Weekend Reading: [Intro to Javascript](https://learn.launchacademy.com/lessons/intro-to-javascript)
   - Evening Exercise: TBA
 
