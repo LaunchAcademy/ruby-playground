@@ -10,11 +10,15 @@
 #
 * Thurs 8/13
   - Afternoon Challenge: [News Aggregator](https://learn.launchacademy.com/lessons/news-aggregator)
+  - Facilitation: [HTTP Post & HTML Forms](https://vimeo.com/launchacademy/review/136216959/1e64c2d172)
+  - Clinic: [Problem Decomposition](https://gist.github.com/alxjrvs/94920198aebb6f16f650#file-leaderboard-rb)
+  - Clinic: [Sinatra Review](https://github.com/LaunchAcademy/url-shortener-sinatra)
   - Evening Reading: [Sessions](https://learn.launchacademy.com/lessons/sessions)
-  - Evening Exercise: None! Rest up and review for the systems check.
+  - OPTIONAL Evening Exercise: [Sinatra Review Exercise](https://gist.github.com/davidrf/125aa2406c0bc3bc1149)
 
 #
 * Weds 8/12
+  - Facilitation: [Dynamic Views](https://vimeo.com/136113671)
   - Afternoon Challenge: [Kickball Site](https://learn.launchacademy.com/lessons/kickball-site)
   - Clinic: [Atom Shortcuts] ([Notes](https://gist.github.com/cmkoller/23e9fc98484d12824736))
   - Evening Reading: [HTTP Post and HTML Forms](https://learn.launchacademy.com/lessons/http-post-and-html-forms)
