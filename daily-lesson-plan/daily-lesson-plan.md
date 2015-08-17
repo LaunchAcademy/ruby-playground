@@ -22,7 +22,7 @@
 * Mon 8/17
   - Afternoon Challenge: [Nebula](https://learn.launchacademy.com/lessons/nebula)
   - Evening Reading: [Javascript Functions](https://learn.launchacademy.com/lessons/javascript-functions-basics)
-  - Evening Exercise: TBA
+  - Evening Exercise: None!
 
 # Week 1
 
