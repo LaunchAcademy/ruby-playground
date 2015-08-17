@@ -1,3 +1,29 @@
+# Week 2
+
+#
+* Thurs 8/20
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Recursion](https://learn.launchacademy.com/lessons/recursion)
+  - Optional Evening Exercise: TBA
+
+#
+* Weds 8/19
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Ajax](https://learn.launchacademy.com/lessons/ajax)
+  - Evening Exercise: TBA
+
+#
+* Tues 8/18
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Javascript DOM Manipulation and Events](https://learn.launchacademy.com/lessons/javascript-dom-and-events)
+  - Evening Exercise: TBA
+
+#
+* Mon 8/17
+  - Afternoon Challenge: [Nebula](https://learn.launchacademy.com/lessons/nebula)
+  - Evening Reading: [Javascript Functions](https://learn.launchacademy.com/lessons/javascript-functions-basics)
+  - Evening Exercise: TBA
+
 # Week 1
 
 #
