@@ -20,7 +20,7 @@
 * Weds 8/12
   - Facilitation: [Dynamic Views](https://vimeo.com/136113671)
   - Afternoon Challenge: [Kickball Site](https://learn.launchacademy.com/lessons/kickball-site)
-  - Clinic: [Atom Shortcuts] ([Notes](https://gist.github.com/cmkoller/23e9fc98484d12824736))
+  - Clinic: [Atom Shortcuts](https://gist.github.com/cmkoller/23e9fc98484d12824736)
   - Evening Reading: [HTTP Post and HTML Forms](https://learn.launchacademy.com/lessons/http-post-and-html-forms)
   - Evening Exercise: [Need the Ingredient](https://learn.launchacademy.com/lessons/evening-need-the-ingredients)
 
