@@ -14,7 +14,8 @@
 
 #
 * Tues 8/18
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Javascript Functions Challenge](https://learn.launchacademy.com/lessons/js-functions-challenge)
+  - Clinic: [jQuery](https://github.com/mlg-/space-tacos)
   - Evening Reading: [Javascript DOM Manipulation and Events](https://learn.launchacademy.com/lessons/javascript-dom-and-events)
   - Evening Exercise: TBA
 
