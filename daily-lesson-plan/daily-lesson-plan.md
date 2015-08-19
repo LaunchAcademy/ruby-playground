@@ -8,7 +8,7 @@
 
 #
 * Weds 8/19
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Launchbook JS](https://learn.launchacademy.com/lessons/launchbook-js); [Launchbook jQuery](https://learn.launchacademy.com/lessons/launchbook-jquery)
   - Evening Reading: [Ajax](https://learn.launchacademy.com/lessons/ajax)
   - Evening Exercise: TBA
 
