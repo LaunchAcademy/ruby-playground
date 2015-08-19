@@ -10,7 +10,7 @@
 * Weds 8/19
   - Afternoon Challenge: [Launchbook JS](https://learn.launchacademy.com/lessons/launchbook-js); [Launchbook jQuery](https://learn.launchacademy.com/lessons/launchbook-jquery)
   - Evening Reading: [Ajax](https://learn.launchacademy.com/lessons/ajax)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Ajax Brussels Sprouts]( https://learn.launchacademy.com/lessons/evening-ajax-brussels-sprouts)
 
 #
 * Tues 8/18
