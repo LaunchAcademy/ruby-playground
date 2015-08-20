@@ -4,11 +4,13 @@
 * Thurs 8/20
   - Facilitation: Ajax ((Video)[https://vimeo.com/136856591])
   - Afternoon Challenge: [Infinite Brussels Sprouts](https://learn.launchacademy.com/lessons/infinite-brussel-sprouts)
+  - Clinic: Systems Check Review ((Starting Code)[https://github.com/cmkoller/js-review-clinic]); ((Final Code)[https://github.com/cmkoller/js-review-clinic/tree/finished-exercise]); ((Notes)[https://gist.github.com/cmkoller/7308db038ff756bde24c])
   - Evening Reading: [Recursion](https://learn.launchacademy.com/lessons/recursion)
   - Optional Evening Exercise: TBA
 
 #
 * Weds 8/19
+  - Facilitation: DOM Manipulation and Events ((Video)[https://vimeo.com/136856778])
   - Afternoon Challenge: [Launchbook JS](https://learn.launchacademy.com/lessons/launchbook-js); [Launchbook jQuery](https://learn.launchacademy.com/lessons/launchbook-jquery)
   - Evening Reading: [Ajax](https://learn.launchacademy.com/lessons/ajax)
   - Evening Exercise: [Ajax Brussels Sprouts]( https://learn.launchacademy.com/lessons/evening-ajax-brussels-sprouts)
@@ -23,6 +25,7 @@
 #
 * Mon 8/17
   - Afternoon Challenge: [Nebula](https://learn.launchacademy.com/lessons/nebula)
+  - Clinic: Javascript Debugging ((Video)[https://vimeo.com/136770824])
   - Evening Reading: [Javascript Functions](https://learn.launchacademy.com/lessons/javascript-functions-basics)
   - Evening Exercise: None!
 
