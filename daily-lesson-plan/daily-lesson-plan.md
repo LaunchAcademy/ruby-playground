@@ -2,6 +2,7 @@
 
 #
 * Thurs 8/20
+  - Facilitation: Ajax ((Video)[https://vimeo.com/136856591])
   - Afternoon Challenge: [Infinite Brussels Sprouts](https://learn.launchacademy.com/lessons/infinite-brussel-sprouts)
   - Evening Reading: [Recursion](https://learn.launchacademy.com/lessons/recursion)
   - Optional Evening Exercise: TBA
