@@ -2,7 +2,7 @@
 
 #
 * Thurs 8/20
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Infinite Brussels Sprouts](https://learn.launchacademy.com/lessons/infinite-brussel-sprouts)
   - Evening Reading: [Recursion](https://learn.launchacademy.com/lessons/recursion)
   - Optional Evening Exercise: TBA
 
