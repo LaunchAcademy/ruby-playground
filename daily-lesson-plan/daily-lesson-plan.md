@@ -15,7 +15,7 @@
 #
 * Tues 8/18
   - Afternoon Challenge: [Javascript Functions Challenge](https://learn.launchacademy.com/lessons/js-functions-challenge)
-  - Clinic: [jQuery](https://github.com/mlg-/space-tacos)
+  - Clinic: [jQuery](https://github.com/mlg-/space-tacos) ((Video)[https://vimeo.com/136853961])
   - Evening Reading: [Javascript DOM Manipulation and Events](https://learn.launchacademy.com/lessons/javascript-dom-and-events)
   - Evening Exercise: [Javascripted Brussels Sprouts](https://learn.launchacademy.com/lessons/evening-javascripted-brussels-sprouts)
 
