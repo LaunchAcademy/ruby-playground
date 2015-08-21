@@ -1,12 +1,18 @@
 # Week 2
 
 #
+* Fri 8/21
+  - Systems Check: [Grocery List Ajax](https://learn.launchacademy.com/lessons/grocery-list-ajax)
+  - Afternoon Challenge: [Fibonacci](https://learn.launchacademy.com/lessons/fibonacci)
+  - Weekend Reading: [Database Persistence](https://learn.launchacademy.com/lessons/database-persistence)
+  - Weekend Exercise: [CSV to DB](https://learn.launchacademy.com/lessons/evening-csv-to-db)
+
+#
 * Thurs 8/20
   - Facilitation: Ajax ((Video)[https://vimeo.com/136856591])
   - Afternoon Challenge: [Infinite Brussels Sprouts](https://learn.launchacademy.com/lessons/infinite-brussel-sprouts)
   - Clinic: Systems Check Review ((Starting Code)[https://github.com/cmkoller/js-review-clinic]); ((Final Code)[https://github.com/cmkoller/js-review-clinic/tree/finished-exercise]); ((Notes)[https://gist.github.com/cmkoller/7308db038ff756bde24c])
   - Evening Reading: [Recursion](https://learn.launchacademy.com/lessons/recursion)
-  - Optional Evening Exercise: TBA
 
 #
 * Weds 8/19
