@@ -4,7 +4,7 @@
 * Fri 8/21
   - Systems Check: [Grocery List Ajax](https://learn.launchacademy.com/lessons/grocery-list-ajax)
   - Afternoon Challenge: [Fibonacci](https://learn.launchacademy.com/lessons/fibonacci)
-  - Weekend Reading: [Database Persistence](https://learn.launchacademy.com/lessons/database-persistence)
+  - Weekend Reading: [Database Persistence](https://learn.launchacademy.com/lessons/database-persistence) AND [SQL Queries](https://learn.launchacademy.com/lessons/sql-queries)
   - Weekend Exercise: [CSV to DB](https://learn.launchacademy.com/lessons/evening-csv-to-db)
 
 #
