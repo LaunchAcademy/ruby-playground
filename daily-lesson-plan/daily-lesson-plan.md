@@ -10,7 +10,7 @@
 * Mon 8/24
   - Afternoon Challenge: (News Aggregator)[https://learn.launchacademy.com/lessons/news-aggregator-postgresql]
   - Evening Reading: [Database Relationships](https://learn.launchacademy.com/lessons/database-relationships)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Brussels Sprouts Recipe Comments](https://learn.launchacademy.com/lessons/evening-brussels-sprouts-comments)
 
 # Week 2
 
