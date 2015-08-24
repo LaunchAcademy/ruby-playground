@@ -1,3 +1,17 @@
+# Week 3
+
+#
+* Tues 8/25
+  - Afternoon Challenge: TBA
+  - Evening Reading: [SQL Joins](https://learn.launchacademy.com/lessons/sql-joins)
+  - Evening Exercise: TBA
+
+#
+* Mon 8/24
+  - Afternoon Challenge: (News Aggregator)[https://learn.launchacademy.com/lessons/news-aggregator-postgresql]
+  - Evening Reading: [Database Relationships](https://learn.launchacademy.com/lessons/database-relationships)
+  - Evening Exercise: TBA
+
 # Week 2
 
 #
