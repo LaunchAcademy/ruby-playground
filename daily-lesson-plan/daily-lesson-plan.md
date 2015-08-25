@@ -2,7 +2,7 @@
 
 #
 * Tues 8/25
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Korning](https://learn.launchacademy.com/lessons/korning)
   - Evening Reading: [SQL Joins](https://learn.launchacademy.com/lessons/sql-joins)
   - Evening Exercise: TBA
 
