@@ -2,13 +2,16 @@
 
 #
 * Tues 8/25
+  - Facilitation: [Database Relationships](https://vimeo.com/137258944)
   - Afternoon Challenge: [Korning](https://learn.launchacademy.com/lessons/korning)
+  - Clinic: [Sinatra with Databases](https://github.com/mlg-/url-shortener-machine)
   - Evening Reading: [SQL Joins](https://learn.launchacademy.com/lessons/sql-joins)
-  - Evening Exercise: TBA
+  - Optional Evening Exercise: [Mass Health](https://learn.launchacademy.com/lessons/mass-health)
 
 #
 * Mon 8/24
   - Afternoon Challenge: (News Aggregator)[https://learn.launchacademy.com/lessons/news-aggregator-postgresql]
+  - Clinic: Refactoring ([Video](https://vimeo.com/137245734)) ([Refactored Submission #1](https://learn.launchacademy.com/submissions/8393)) ([Refactored Submission #2](https://learn.launchacademy.com/submissions/8407))
   - Evening Reading: [Database Relationships](https://learn.launchacademy.com/lessons/database-relationships)
   - Evening Exercise: [Brussels Sprouts Recipe Comments](https://learn.launchacademy.com/lessons/evening-brussels-sprouts-comments)
 
