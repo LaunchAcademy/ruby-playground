@@ -16,7 +16,7 @@
 * Tues 8/25
   - Facilitation: [Database Relationships](https://vimeo.com/137258944)
   - Afternoon Challenge: [Korning](https://learn.launchacademy.com/lessons/korning)
-  - Clinic: [Sinatra with Databases](https://github.com/mlg-/url-shortener-machine)
+  - Clinic: [Sinatra with Databases](https://github.com/mlg-/url-shortener-machine) ([Video](https://vimeo.com/137312398))
   - Evening Reading: [SQL Joins](https://learn.launchacademy.com/lessons/sql-joins)
   - Evening Exercise: [Lost Dog Collars](https://learn.launchacademy.com/lessons/evening-lost-dog-collars)
   - Optional Additional Evening Exercise: [Mass Health](https://learn.launchacademy.com/lessons/mass-health)
