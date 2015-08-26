@@ -1,6 +1,18 @@
 # Week 3
 
 #
+* Thus 8/27
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Heroku Deployment](https://devcenter.heroku.com/articles/getting-started-with-ruby-o) (Give it a look over, but know that it'll all be covered tomorrow and you don't have to know it perfectly!)
+  - Evening Exercise: None! Rest up for the systems check!
+
+#
+* Weds 8/26
+  - Afternoon Challenge: [Hollywood Trivia](https://learn.launchacademy.com/lessons/hollywood-trivia)
+  - Evening Reading: [Database Indexing](https://learn.launchacademy.com/lessons/database-indexes)
+  - Evening Exercise: [Evening Database Indices](https://learn.launchacademy.com/lessons/evening-database-indices)
+
+#
 * Tues 8/25
   - Facilitation: [Database Relationships](https://vimeo.com/137258944)
   - Afternoon Challenge: [Korning](https://learn.launchacademy.com/lessons/korning)
