@@ -9,6 +9,7 @@
 #
 * Weds 8/26
   - Facilitation: [SQL Joins](https://vimeo.com/137388464)
+  - Clinic: Korning ([Repo]( https://github.com/EliseFitz15/korning-fall))
   - Afternoon Challenge: [Hollywood Trivia](https://learn.launchacademy.com/lessons/hollywood-trivia)
   - Evening Reading: [Database Indexing](https://learn.launchacademy.com/lessons/database-indexes)
   - Evening Exercise: [Evening Database Indices](https://learn.launchacademy.com/lessons/evening-database-indices)
