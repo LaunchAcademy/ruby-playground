@@ -1,15 +1,23 @@
 # Week 3
 
 #
+* Fri 8/28
+  - Systems Check: [Grocery List using Postgres](https://learn.launchacademy.com/lessons/grocery-list-postgres)
+  - Weekend Reading: [Building a Card Deck](https://learn.launchacademy.com/lessons/building-a-card-deck)
+  - Weekend Exercise: TBA
+
+#
 * Thus 8/27
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Movie Catalog Deluxe](https://learn.launchacademy.com/lessons/movie-catalog-deluxe
+)
+  - Clinic: Systems Check Review ([Video](https://vimeo.com/137532521)) ([Repo](https://github.com/davidrf/beer_reviews_fall_2015)) ([Refactored into Objects](https://github.com/davidrf/beer_reviews_fall_2015/tree/refactored_branch))
   - Evening Reading: [Heroku Deployment](https://devcenter.heroku.com/articles/getting-started-with-ruby-o) (Give it a look over, but know that it'll all be covered tomorrow and you don't have to know it perfectly!)
   - Evening Exercise: None! Rest up for the systems check!
 
 #
 * Weds 8/26
   - Facilitation: [SQL Joins](https://vimeo.com/137388464)
-  - Clinic: Korning ([Repo]( https://github.com/EliseFitz15/korning-fall))
+  - Clinic: Korning ([Repo]( https://github.com/EliseFitz15/korning-fall)) ([Video](https://vimeo.com/137537551))
   - Afternoon Challenge: [Hollywood Trivia](https://learn.launchacademy.com/lessons/hollywood-trivia)
   - Evening Reading: [Database Indexing](https://learn.launchacademy.com/lessons/database-indexes)
   - Evening Exercise: [Evening Database Indices](https://learn.launchacademy.com/lessons/evening-database-indices)
