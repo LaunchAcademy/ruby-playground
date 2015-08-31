@@ -1,3 +1,17 @@
+# Week 4
+
+#
+* Tues 9/1
+  - Afternoon Challenge: TBA
+  - Evening Reading: None
+  - Evening Challenge: TBA
+
+#
+* Mon 8/31
+  - Afternoon Challenge: [Blackjack](https://learn.launchacademy.com/lessons/blackjack)
+  - Evening Reading: [Unit Testing](https://learn.launchacademy.com/lessons/tdd-unit-testing)
+  - Evening Challenge: None - finish up Blackjack
+
 # Week 3
 
 #
