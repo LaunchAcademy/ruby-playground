@@ -8,6 +8,7 @@
 
 #
 * Mon 8/31
+  - Facilitation: [Multiple Classes](https://vimeo.com/137850300)
   - Afternoon Challenge: [Blackjack](https://learn.launchacademy.com/lessons/blackjack)
   - Evening Reading: [Unit Testing](https://learn.launchacademy.com/lessons/tdd-unit-testing)
   - Evening Challenge: None - finish up Blackjack
@@ -17,6 +18,7 @@
 #
 * Fri 8/28
   - Systems Check: [Grocery List using Postgres](https://learn.launchacademy.com/lessons/grocery-list-postgres)
+  - Clinic: CSS Frameworks ([Video](https://vimeo.com/137644401)) ([Notes]( https://github.com/cmkoller/css_frameworks_example/blob/fall-2015/css_frameworks.md)) ([Repo](https://github.com/cmkoller/css_frameworks_example/tree/fall-2015))
   - Weekend Reading: [Building a Card Deck](https://learn.launchacademy.com/lessons/building-a-card-deck)
   - Weekend Exercise: TBA
 
@@ -27,6 +29,7 @@
   - Clinic: Systems Check Review ([Video](https://vimeo.com/137532521)) ([Repo](https://github.com/davidrf/beer_reviews_fall_2015)) ([Refactored into Objects](https://github.com/davidrf/beer_reviews_fall_2015/tree/refactored_branch))
   - Evening Reading: [Heroku Deployment](https://devcenter.heroku.com/articles/getting-started-with-ruby-o) (Give it a look over, but know that it'll all be covered tomorrow and you don't have to know it perfectly!)
   - Evening Exercise: None! Rest up for the systems check!
+  - Guest Speacker: Spencer Dixon - [OOP](https://vimeo.com/137700463)
 
 #
 * Weds 8/26
