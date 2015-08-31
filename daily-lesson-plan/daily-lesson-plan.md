@@ -11,7 +11,7 @@
   - Facilitation: [Multiple Classes](https://vimeo.com/137850300)
   - Afternoon Challenge: [Blackjack](https://learn.launchacademy.com/lessons/blackjack)
   - Evening Reading: [Unit Testing](https://learn.launchacademy.com/lessons/tdd-unit-testing)
-  - Evening Challenge: None - finish up Blackjack
+  - Evening Challenge: [Testing Blackjack](https://learn.launchacademy.com/lessons/evening-black-jack-challenge)
 
 # Week 3
 
