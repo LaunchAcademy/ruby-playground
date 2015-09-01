@@ -1,3 +1,4 @@
+require "pry"
 require_relative '../blackjack'
 
 describe Deck do
@@ -13,10 +14,11 @@ describe Deck do
     end
 
     it "shuffles deck aftering being built" do
-      expect(deck.cards.sort).to_not eq deck.cards      
-      # it is good not to rely on negative tests alone 
+      expect(deck.cards.sort).to_not eq deck.cards
+
+      # it is good not to rely on negative tests alone
       # so we assert that after sorting the deck it looks like we expect
-      expect(deck.cards.sort[0..1]).to eq ['2♦', '3♦']
+      expect(deck.cards.sort[0..1]).to eq ["10♠", "10♣"]
     end
   end
 
