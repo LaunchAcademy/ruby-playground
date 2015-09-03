@@ -1,15 +1,35 @@
 # Week 4
 
 #
+* Fri 9/5
+  - Systems Check: TBA
+  - Weekend Reading: [ActiveRecord Migrations](https://learn.launchacademy.com/lessons/activerecord-migrations) AND [ActiveRecord Associations](https://learn.launchacademy.com/lessons/activerecord-associations)
+  - Weekend Exercise: TBA
+
+#
+* Thurs 9/4
+  - Afternoon Challenge: [Party Module](https://learn.launchacademy.com/lessons/party-module)
+
+#
+* Weds 9/3
+  - Optional Afternoon Challenge: [Minesweeper](https://learn.launchacademy.com/lessons/minesweeper)
+  - Clinic: TDD ([Code](https://github.com/EliseFitz15/tdd-pokemon-fall)) ([Video](https://vimeo.com/138140415))
+  - Evening Reading: [Inheritance](https://learn.launchacademy.com/lessons/inheritance) AND [Modules](https://learn.launchacademy.com/lessons/modules)
+  - Evening Challenge: [Inheritance & the Launcher League](https://learn.launchacademy.com/lessons/inheritance-launchers-league)
+
+#
 * Tues 9/1
-  - Afternoon Challenge: TBA
+  - Facilitation: Unit Testing ([Code](https://github.com/LaunchAcademy/bank)) ([Video](https://vimeo.com/137970873))
+  - Afternoon Challenge: [Test Flight](https://learn.launchacademy.com/lessons/test-flight)
+  - Clinic: Blackjack Review ([Code](https://github.com/davidrf/blackjack_clinic_fall_2015/blob/master/blackjack.rb)) ([Video]( https://vimeo.com/138021795))
   - Evening Reading: None
-  - Evening Challenge: TBA
+  - Evening Challenge: None
 
 #
 * Mon 8/31
   - Facilitation: [Multiple Classes](https://vimeo.com/137850300)
   - Afternoon Challenge: [Blackjack](https://learn.launchacademy.com/lessons/blackjack)
+  - Clinic: Gosu ([Code](https://github.com/davidrf/gosu_fall_2015)) ([Video](https://vimeo.com/137885693)) ([Trouble setting up?](https://learn.launchacademy.com/questions/148))
   - Evening Reading: [Unit Testing](https://learn.launchacademy.com/lessons/tdd-unit-testing)
   - Evening Challenge: [Testing Blackjack](https://learn.launchacademy.com/lessons/evening-black-jack-challenge)
 
