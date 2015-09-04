@@ -3,6 +3,8 @@
 #
 * Fri 9/5
   - Systems Check: [Cohort Stats](https://learn.launchacademy.com/lessons/cohort-stats)
+  - Facilitation: Acceptance Testing ([Video](https://vimeo.com/138337561)) ([Slides](https://docs.google.com/presentation/d/1d0Jb7SxvUl1NdaUbDHo8gn2q3P5dPy1kDK2okAtH_Lg/edit?usp=sharing))
+  - Afternoon Challenge: [Acceptance Testing Pickled Beets](https://learn.launchacademy.com/lessons/acceptance-testing-brussels-sprouts)
   - Weekend Reading: [ActiveRecord Migrations](https://learn.launchacademy.com/lessons/activerecord-migrations) AND [ActiveRecord Associations](https://learn.launchacademy.com/lessons/activerecord-associations)
   - Weekend Exercise: [Contact Manager](https://learn.launchacademy.com/lessons/contact-manager)
 
