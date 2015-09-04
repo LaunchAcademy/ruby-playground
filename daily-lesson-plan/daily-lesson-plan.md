@@ -2,9 +2,9 @@
 
 #
 * Fri 9/5
-  - Systems Check: TBA
+  - Systems Check: [Cohort Stats](https://learn.launchacademy.com/lessons/cohort-stats)
   - Weekend Reading: [ActiveRecord Migrations](https://learn.launchacademy.com/lessons/activerecord-migrations) AND [ActiveRecord Associations](https://learn.launchacademy.com/lessons/activerecord-associations)
-  - Weekend Exercise: TBA
+  - Weekend Exercise: [Contact Manager](https://learn.launchacademy.com/lessons/contact-manager)
 
 #
 * Thurs 9/4
