@@ -1,3 +1,19 @@
+# Week 5
+
+#
+* Weds 9/9
+  - Facilitation: ActiveRecord Associations ([Notes](https://docs.google.com/presentation/d/1l2wxtUQkdGp4tFh6O1HFVjX5a5ec2ioUIMqT0XL7WYM/edit?usp=sharing)) ([Video](https://vimeo.com/138765027))
+  - Afternoon Challenge: [Meetups in Space Part 2: Associations]( https://learn.launchacademy.com/lessons/meetups-in-space-2-associations)
+  - Evening Reading: [ActiveRecord Validations](https://learn.launchacademy.com/lessons/activerecord-validations)
+  - Evening Exercise: TBA
+
+#
+* Tues 9/8
+  - Facilitation: ActiveRecord Migrations ([Video](https://vimeo.com/138704367 (edited)))
+  - Afternoon Challenge: [Meetups in Space Part 1: Migrations](https://learn.launchacademy.com/lessons/meetups-in-space-1-migrations)
+  - Clinic: Acceptance Testing with ActiveRecord ([Repo](https://github.com/davidrf/AR_acceptance_testing_fall_2015)) ([Video](https://github.com/davidrf/AR_acceptance_testing_fall_2015))
+  - Evening Exercise: [Brussels Sprouts Recipe Blog with ActiveRecord](https://learn.launchacademy.com/lessons/evening-exercise-ar-querying-associations)
+
 # Week 4
 
 #
@@ -5,11 +21,14 @@
   - Systems Check: [Cohort Stats](https://learn.launchacademy.com/lessons/cohort-stats)
   - Facilitation: Acceptance Testing ([Video](https://vimeo.com/138337561)) ([Slides](https://docs.google.com/presentation/d/1d0Jb7SxvUl1NdaUbDHo8gn2q3P5dPy1kDK2okAtH_Lg/edit?usp=sharing))
   - Afternoon Challenge: [Acceptance Testing Pickled Beets](https://learn.launchacademy.com/lessons/acceptance-testing-brussels-sprouts)
-  - Weekend Reading: [ActiveRecord Migrations](https://learn.launchacademy.com/lessons/activerecord-migrations) AND [ActiveRecord Associations](https://learn.launchacademy.com/lessons/activerecord-associations)
+  - Clinic: APIs ([Repo/Notes](https://github.com/mlg-/magical-intertubes)) ([Video]( https://vimeo.com/138353688))
+  - Weekend Reading: [ActiveRecord Migrations](https://learn.launchacademy.com/lessons/activerecord-migrations) AND [ActiveRecord Associations](https://learn.launchacademy.com/lessons/activerecord-associations) AND [ActiveRecord Queries](https://learn.launchacademy.com/lessons/activerecord-crud)
   - Weekend Exercise: [Contact Manager](https://learn.launchacademy.com/lessons/contact-manager)
 
 #
 * Thurs 9/4
+  - Facilitation: Inheritance/Modules ([Code](https://gist.github.com/alxjrvs/cd5abdcefede7d4acaca))
+  - Clinic: Systems Check Review ([Notes]((https://gist.github.com/alxjrvs/035787e1206eb9a1a075)))
   - Afternoon Challenge: [Party Module](https://learn.launchacademy.com/lessons/party-module)
 
 #
