@@ -3,8 +3,8 @@
 #
 * Fri 9/11
   - Systems Check: [Project Planner](https://learn.launchacademy.com/lessons/project-planner)
-  - Weekend Reading: [Rails Routes](https://learn.launchacademy.com/lessons/rails-routes)
-  - Weekend Challenge: TBA
+  - Weekend Reading: [Intro to Rails](https://learn.launchacademy.com/lessons/intro-to-rails) AND [Rails Routes](https://learn.launchacademy.com/lessons/rails-routes)
+  - Weekend Challenge: [Launchtails Routing](https://learn.launchacademy.com/lessons/launchtails-routing)
 
 #
 * Thurs 9/10
