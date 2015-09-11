@@ -1,11 +1,23 @@
 # Week 5
 
 #
+* Fri 9/11
+  - Systems Check: [Project Planner](https://learn.launchacademy.com/lessons/project-planner)
+  - Weekend Reading: [Rails Routes](https://learn.launchacademy.com/lessons/rails-routes)
+  - Weekend Challenge: TBA
+
+#
+* Thurs 9/10
+  - Afternoon Challenge: [Meetups in Space Part 3: Validations](https://learn.launchacademy.com/lessons/meetups-in-space-3-validations)
+  - Clinic: Systems Check Review ([Video - without audio :(](https://vimeo.com/138921982)) ([Gist with terminal output](https://gist.github.com/mlg-/e9d8b9a93306d60d2983)) ([Repo](https://github.com/mlg-/ghost_tours))
+  - [Optional Systems Check review challenge](https://gist.github.com/cmkoller/0c5ccfa56c978fdf5cf0)
+
+#
 * Weds 9/9
   - Facilitation: ActiveRecord Associations ([Notes](https://docs.google.com/presentation/d/1l2wxtUQkdGp4tFh6O1HFVjX5a5ec2ioUIMqT0XL7WYM/edit?usp=sharing)) ([Video](https://vimeo.com/138765027))
   - Afternoon Challenge: [Meetups in Space Part 2: Associations]( https://learn.launchacademy.com/lessons/meetups-in-space-2-associations)
   - Evening Reading: [ActiveRecord Validations](https://learn.launchacademy.com/lessons/activerecord-validations)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Brussels Sprouts Recipe Blog with Validations](https://learn.launchacademy.com/lessons/evening-exercise-ar-validations)
 
 #
 * Tues 9/8
