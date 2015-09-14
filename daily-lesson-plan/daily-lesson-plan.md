@@ -1,3 +1,23 @@
+# Week 6
+
+#
+* Weds 9/16
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Rails Asset Pipeline](https://learn.launchacademy.com/lessons/rails-asset-pipeline)
+  - Evening Challenge: TBA
+
+#
+* Tues 9/15
+  - Afternoon Challenge: TBA
+  - Evening Reading: [Rails Nested Routes](https://learn.launchacademy.com/lessons/rails-nested-resources)
+  - Evening Challenge: TBA
+
+#
+* Mon 9/14
+  - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
+  - Evening Reading: [Rails Forms](https://learn.launchacademy.com/lessons/rails-forms)
+  - Evening Exercise: TBA
+
 # Week 5
 
 #
