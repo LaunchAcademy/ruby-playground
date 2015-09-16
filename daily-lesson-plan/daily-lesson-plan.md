@@ -2,21 +2,26 @@
 
 #
 * Weds 9/16
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: Rescue Mission cont.
   - Evening Reading: [Rails Asset Pipeline](https://learn.launchacademy.com/lessons/rails-asset-pipeline)
   - Evening Challenge: TBA
 
 #
 * Tues 9/15
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: Rescue Mission cont.
+  - Clinic: Building a Rails API ([Repo](https://github.com/mlg-/surrealist_poetry_api)) ([Video](https://vimeo.com/139418792))
   - Evening Reading: [Rails Nested Routes](https://learn.launchacademy.com/lessons/rails-nested-resources)
-  - Evening Challenge: TBA
+  - Evening Challenge: [Launchtails Nested Routes](https://learn.launchacademy.com/lessons/launchtails-nested-routes)
+  - Optional Extra Reading: [Simple Form](https://learn.launchacademy.com/lessons/rails-simple-form), [Rails Requests](https://learn.launchacademy.com/lessons/rails-requests), [Rails Controllers](https://learn.launchacademy.com/lessons/rails-controllers)
 
 #
 * Mon 9/14
   - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
+  - [Career Services Presentation](https://docs.google.com/document/d/1KU2DEkiJDfD1dUG9cwfGKZneSNwowsyBhWSxFOc2Ong/edit)
+  - [Breakable Toy Info](https://gist.github.com/cmkoller/75928b06608452d5cc7a)
+  - [How to Plan an App](https://gist.github.com/cmkoller/bf435b2a9ffbf95b21b6)
   - Evening Reading: [Rails Forms](https://learn.launchacademy.com/lessons/rails-forms)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Launchtails Forms](https://learn.launchacademy.com/lessons/launchtails-forms)
 
 # Week 5
 
