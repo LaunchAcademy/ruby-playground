@@ -1,10 +1,33 @@
+# Week 7
+
+#
+* Mon 9/21
+  - [Group Project Logistical Info](https://gist.github.com/cmkoller/c6e46b4ad7f4efde458a)
+  - [Group Project Assignments](https://gist.github.com/cmkoller/22092c434c8e626e85f0)
+  - [Review Site Challenge](https://learn.launchacademy.com/lessons/review-site)
+
 # Week 6
 
 #
+* Fri 9/18
+ - Systems Check: [Restauraun Reviews](https://learn.launchacademy.com/lessons/restaurant-reviews)
+  - Clinic: Highcharts ([Repo](https://github.com/davidrf/highcharts_fall_2015/commit/00f00771920bebbce91a41f49e0f6af34c22905a)) ([Video](https://vimeo.com/139747400))
+  - Weekend Exercise: [Pull Request Workflow](https://learn.launchacademy.com/lessons/pull-request-workflow-practice)
+
+#
+* Thurs 9/17
+  - Facilitation: Asset Pipeline ([Video](https://vimeo.com/139610735))
+  - Clinic: Systems Check Review ([Repo](https://github.com/EliseFitz15/airpnp)) ([Video](https://vimeo.com/139646319))
+  - Evening Reading: [What a Web Developer Should Know](https://learn.launchacademy.com/lessons/what-a-web-developer-should-know)
+  - [Optional Evening Exercise](https://gist.github.com/EliseFitz15/f3c8ac5b589ae615ef17)
+
+#
 * Weds 9/16
+  - Facilitation: Nested Routes ([Slides](https://github.com/radavis/slides)) ([Repo](https://github.com/radavis/songbank)) ([Video](https://vimeo.com/139500479)) ([Related Article](http://radavis.github.io/2015/06/22/make-rails-new-do-your-bidding.html))
   - Afternoon Challenge: Rescue Mission cont.
-  - Evening Reading: [Rails Asset Pipeline](https://learn.launchacademy.com/lessons/rails-asset-pipeline)
-  - Evening Challenge: TBA
+  - Clinic: Foundation in Rails ([Notes](https://github.com/cmkoller/foundation_rails_clinic)) ([Video](https://vimeo.com/139515021))
+  - Evening Reading: [Rails Asset Pipeline](https://learn.launchacademy.com/lessons/rails-asset-pipeline) AND [Rails Partials](https://learn.launchacademy.com/lessons/rails-partials)
+  - Evening Challenge: [Partials](https://learn.launchacademy.com/lessons/evening-exercise-partials)
 
 #
 * Tues 9/15
