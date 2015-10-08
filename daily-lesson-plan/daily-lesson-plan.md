@@ -1,4 +1,39 @@
+# Week 9
+
+#
+* Thurs 10/8
+  - Clinic: Linked Lists ([Reading](https://learn.launchacademy.com/lessons/linked-list))
+  - Optional Challenge: [Linked Lists Challenge](https://learn.launchacademy.com/lessons/linked-list-challenge)
+
+#
+* Weds 10/7
+  - Clinic: Big O Notation ([Reading](https://learn.launchacademy.com/lessons/big-o-notation))
+
+#
+* Tues 10/6
+  - Clinic: Stack ([Reading](https://learn.launchacademy.com/lessons/stack))
+
+# Week 8
+
+#
+* Weds 9/30
+  - Clinic: ActionMailer ([Video](https://vimeo.com/140983037)) ([Notes](https://gist.github.com/EliseFitz15/28830869d90e2e4c67e7)) ([Repo](https://github.com/EliseFitz15/pokemon_reviews))
+
+#
+* Mon 9/28
+  - Clinic: Carrierwave/S3 ([Repo](https://github.com/davidrf/carrierwave_s3_fall_2015/commit/450f3434868a2476f985b419e105c4aa79bf318d)) ([Video](https://vimeo.com/140714898))
+
 # Week 7
+
+# Fri 9/25
+  - Systems Check: [Car Listings](https://learn.launchacademy.com/lessons/car-listings)
+  - Clinic: Sass ([Notes](https://gist.github.com/cmkoller/fadb5e1d177aa209d0c2)) ([Video](https://vimeo.com/140465498)) ([Cool for practicing](http://sassmeister.com/)) ([Awesome book on Sass](http://esdwebtestlink.com/PDFs/ABookApart/Sass-for-Web-Designers.pdf))
+
+# Thurs 9/24
+  - [Optional Systems Check review challenge](https://gist.github.com/EliseFitz15/e7aa4ab211db9bc153e4)
+
+# Tues 9/22
+  - Clinic: Deploying to Heroku ([Video](https://vimeo.com/140139330))
 
 #
 * Mon 9/21
