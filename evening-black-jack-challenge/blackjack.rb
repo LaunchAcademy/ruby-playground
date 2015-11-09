@@ -5,7 +5,7 @@ class Hand
     @cards = cards
   end
 
-  def calculate_hand(cards)
+  def calculate_hand
     # Your code here after writing tests
     # Think about what this method has to be able to do
   end

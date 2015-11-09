@@ -57,13 +57,4 @@ describe Hand do
     end
     # add the remaining tests here
   end
-
-  # Break up the bigger method #calculate_hand into smaller methods using more
-  # describe blocks.  Each describe block should test 1 method
-
-  describe "#some_other_method" do
-    it "passes" do
-      expect(true).to_not eq false
-    end
-  end
 end
