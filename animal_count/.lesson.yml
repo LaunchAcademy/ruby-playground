@@ -1,6 +1,6 @@
 ---
 title: "Animal Count"
 type: "exercise"
-visibility: "subscribe"
+visibility: "public"
 description: "Use string interpolation to share the details of your animal sightings"
 ---

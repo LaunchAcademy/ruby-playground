@@ -3,6 +3,6 @@ title: "Favorite Rides"
 type: "exercise"
 description: "Use input and output to share your favorite rides with friends"
 tags: "io"
-visibility: "subscribe"
+visibility: "public"
 ignore:
 - "best_rides.md"
