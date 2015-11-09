@@ -1,3 +1,7 @@
+# Office Hour Schedule
+[View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
+#
+
 # Week 1
 
 #
