@@ -5,4 +5,4 @@ description: "Use Ruby to determine if a string is a palindrome"
 depends: "rock-paper-scissors"
 visibility: "onsite"
 ignore:
-- "evening-exercise-ruby-palindrome.md"
+- "ruby-palindrome.md"
