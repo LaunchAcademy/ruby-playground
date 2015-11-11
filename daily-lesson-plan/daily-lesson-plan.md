@@ -5,14 +5,35 @@
 # Week 1
 
 #
-* Wednesday 11/11
-  - Facilitation: TBA
+* Friday 11/13
+  - Facilitation: HTTP
   - Afternoon Challenge: TBA
   - Clinics: TBA
   - Evening Reading(s):
+  - [HTTP](https://learn.launchacademy.com/units/week_1/lessons/http)
+  - [Dynamic Web Pages](https://learn.launchacademy.com/units/week_1/lessons/dynamic-web-pages)
+  - Evening Exercise: TBA
+
+#
+* Thursday 11/12
+  - Facilitation: OO Inheritance/Modules
+  - Afternoon Challenge: TBA
+  - Clinics: System Check Prep/Review
+  - Evening Reading(s): No evening reading or challenges
+  - Evening Exercise: Prepare for System Check
+
+#
+* Wednesday 11/11
+  - Facilitation:
+  - [Object Oriented Marathon](https://learn.launchacademy.com/units/week_1/lessons/oo-marathon)
+  - Afternoon Challenge: Keep Working on Blackjack
+  - Clinics: Pair Programming
+  - Evening Reading(s):
   - [Inheritance](https://learn.launchacademy.com/units/week_1/lessons/inheritance)
   - [Modules](https://learn.launchacademy.com/units/week_1/lessons/modules)
-  - Evening Exercise: TBA
+  - Evening Exercise(s):
+  - [Launchers League](https://learn.launchacademy.com/units/week_1/lessons/inheritance-launchers-league)
+  - [Party Module](https://learn.launchacademy.com/units/week_1/lessons/party-module)
 
 #
 * Tuesday 11/10
