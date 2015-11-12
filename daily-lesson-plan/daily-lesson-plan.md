@@ -17,7 +17,9 @@
 #
 * Thursday 11/12
   - Facilitation: OO Inheritance/Modules
-  - Afternoon Challenge: TBA
+  - [video](https://vimeo.com/145531722) pw: Winter!2015;
+  - Afternoon Challenge:
+  - [Chillow]( https://learn.launchacademy.com/lessons/chillow)
   - Clinics: System Check Prep/Review
   - Evening Reading(s): No evening reading or challenges
   - Evening Exercise: Prepare for System Check
