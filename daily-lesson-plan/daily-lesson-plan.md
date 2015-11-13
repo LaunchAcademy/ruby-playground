@@ -2,17 +2,47 @@
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
 #
 
+# Week 2
+
+#
+* Wednesday 11/18
+  - Facilitation: Acceptance Testing
+  - Afternoon Challenge: TBA
+  - Clinics: Foundation
+  - Evening Reading(s):
+  - [Sessions](https://learn.launchacademy.com/units/week_2/lessons/sessions)
+  - Evening Exercise: TBA
+
+#
+* Tuesday 11/17
+  - Facilitation: HTTP and HTML
+  - Afternoon Challenge: TBA
+  - Clinics: Problem Decomposition
+  - Evening Reading(s):
+  - [Acceptance Testing](https://learn.launchacademy.com/units/week_2/lessons/acceptance-testing)
+  - Evening Exercise: TBA
+
+#
+* Monday 11/16
+  - Facilitation: Sinatra / Dynamic Views
+  - Afternoon Challenge: TBA
+  - Clinics: Atom Shortcuts
+  - Evening Reading(s):
+  - [HTTP Post and Forms](https://learn.launchacademy.com/units/week_2/lessons/http-post-and-html-forms)
+  - Evening Exercise: TBA
+
 # Week 1
 
 #
 * Friday 11/13
   - Facilitation: HTTP
-  - Afternoon Challenge: TBA
-  - Clinics: TBA
+  - [video](https://vimeo.com/145668115) pw: Winter!2015;
+  - Afternoon Challenge: [HTTP Challenge](https://learn.launchacademy.com/units/week_1/lessons/http-challenge)
+  - Clinics: N/A
   - Evening Reading(s):
   - [HTTP](https://learn.launchacademy.com/units/week_1/lessons/http)
   - [Dynamic Web Pages](https://learn.launchacademy.com/units/week_1/lessons/dynamic-web-pages)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Veggie Recipe Printer](https://learn.launchacademy.com/units/week_1/lessons/veggie-recipe-printer)
 
 #
 * Thursday 11/12
