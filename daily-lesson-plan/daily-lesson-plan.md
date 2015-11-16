@@ -5,6 +5,24 @@
 # Week 2
 
 #
+* Friday 11/20
+  - Facilitation: Database Persistence
+  - Afternoon Challenge: TBA
+  - Evening Reading(s):
+  - [Database Persistence](https://learn.launchacademy.com/units/week_2/lessons/database-persistence)
+  - [SQL Queries](https://learn.launchacademy.com/units/week_2/lessons/sql-queries)
+  - [Database Relationships](https://learn.launchacademy.com/units/week_2/lessons/database-relationships)
+  - Evening Exercise: TBA
+
+#
+* Thursday 11/19
+  - Facilitation: Sessions Data & Authentication
+  - Afternoon Challenge: TBA
+  - Clinics: System Check Review/Prep
+  - Evening Reading(s): No evening reading or challenges
+  - Evening Exercise: Prepare for System Check
+
+#
 * Wednesday 11/18
   - Facilitation: Acceptance Testing
   - Afternoon Challenge: TBA
@@ -15,7 +33,7 @@
 
 #
 * Tuesday 11/17
-  - Facilitation: HTTP and HTML
+  - Facilitation: HTTP Post and HTML Forms
   - Afternoon Challenge: TBA
   - Clinics: Problem Decomposition
   - Evening Reading(s):
@@ -25,11 +43,11 @@
 #
 * Monday 11/16
   - Facilitation: Sinatra / Dynamic Views
-  - Afternoon Challenge: TBA
-  - Clinics: Atom Shortcuts
+  - Afternoon Challenge: [Kickball Site](https://learn.launchacademy.com/units/week_2/lessons/kickball-site)
+  - Clinics: Atom Shortcuts: [video](https://vimeo.com/145911459); [gist](https://gist.github.com/davidrf/9079f7e244dd38f35808)
   - Evening Reading(s):
   - [HTTP Post and Forms](https://learn.launchacademy.com/units/week_2/lessons/http-post-and-html-forms)
-  - Evening Exercise: TBA
+  - Evening Exercise: [Need The Ingredients](https://learn.launchacademy.com/units/week_2/lessons/need-the-ingredients)
 
 # Week 1
 
