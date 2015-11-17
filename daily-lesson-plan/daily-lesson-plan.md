@@ -33,12 +33,13 @@
 
 #
 * Tuesday 11/17
-  - Facilitation: HTTP Post and HTML Forms
-  - Afternoon Challenge: TBA
-  - Clinics: Problem Decomposition
+  - Facilitation: HTTP Post and HTML Forms [video](https://vimeo.com/launchacademy/review/146010473/13b4320ce7); [slides](https://docs.google.com/presentation/d/1Hr0hR4v1L_0zWtT4TuSZK8k2c637OW8IjxO6mjtvKoM/edit?usp=sharing);
+  - Afternoon Challenge: [News Aggregator]( https://learn.launchacademy.com/units/week_2/lessons/news-aggregator)
+  - Clinics: Problem Decomposition [video](https://vimeo.com/146050160); [code and notes](https://github.com/mlg-/bug-squishing)
   - Evening Reading(s):
   - [Acceptance Testing](https://learn.launchacademy.com/units/week_2/lessons/acceptance-testing)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Acceptance Test Pickled Beets](https://learn.launchacademy.com/lessons/acceptance-testing-pickled-beets)
 
 #
 * Monday 11/16
