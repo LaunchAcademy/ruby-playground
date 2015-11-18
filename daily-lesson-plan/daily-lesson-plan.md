@@ -24,12 +24,13 @@
 
 #
 * Wednesday 11/18
-  - Facilitation: Acceptance Testing
-  - Afternoon Challenge: TBA
-  - Clinics: Foundation
+  - Facilitation: Acceptance Testing [video](https://vimeo.com/146129897)
+  - Afternoon Challenge: [Acceptance Testing TV Shows]( https://learn.launchacademy.com/lessons/acceptance-testing-tv-shows)
+  - Clinics: Foundation [video](https://vimeo.com/146168509); [code and notes](https://github.com/cmkoller/css_frameworks_winter_2015)
   - Evening Reading(s):
   - [Sessions](https://learn.launchacademy.com/units/week_2/lessons/sessions)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Sessions Walkthrough](https://learn.launchacademy.com/lessons/sessions-walkthrough)
 
 #
 * Tuesday 11/17
