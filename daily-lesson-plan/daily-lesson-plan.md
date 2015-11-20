@@ -24,12 +24,12 @@
 
 #
 * Monday 11/23
-- Facilitation: Database Relationships & Foreign Keys
-- Afternoon Challenge: TBA
-- Clinics: Sinatra with DB Live code
-- Evening Reading(s):
-- [SQL Joins](https://learn.launchacademy.com/units/week_3/lessons/sql-joins)
-- Evening Exercise: TBA
+  - Facilitation: Database Relationships & Foreign Keys
+  - Afternoon Challenge: TBA
+  - Clinics: Sinatra with DB Live code
+  - Evening Reading(s):
+  - [SQL Joins](https://learn.launchacademy.com/units/week_3/lessons/sql-joins)
+  - Evening Exercise: TBA
 
 
 # Week 2
