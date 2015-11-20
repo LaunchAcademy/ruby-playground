@@ -2,23 +2,57 @@
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
 #
 
+# Week 3
+
+#
+* Wednesday 11/25
+  - Facilitation: Database Indexes
+  - Afternoon Challenge: TBA
+  - Evening Reading(s):
+  - [Database Indexes](https://learn.launchacademy.com/units/week_3/lessons/database-indexes)
+  - Evening Exercise: TBA
+
+
+#
+* Tuesday 11/24
+  - Facilitation: SQL Joins
+  - Afternoon Challenge: TBA
+  - Clinics: System Check Review/Prep
+  - Evening Reading(s): No evening reading or challenges
+  - Evening Exercise: Prepare for System Check
+
+
+#
+* Monday 11/23
+- Facilitation: Database Relationships & Foreign Keys
+- Afternoon Challenge: TBA
+- Clinics: Sinatra with DB Live code
+- Evening Reading(s):
+- [SQL Joins](https://learn.launchacademy.com/units/week_3/lessons/sql-joins)
+- Evening Exercise: TBA
+
+
 # Week 2
 
 #
 * Friday 11/20
-  - Facilitation: Database Persistence
-  - Afternoon Challenge: TBA
+  - Facilitation: Database Persistence [video](https://vimeo.com/launchacademy/review/146438119/47ea908472) ; [code and notes](https://docs.google.com/presentation/d/1p16A6YE8L-4zuf-FkdB-YDADOjMSBsoNcYYPvhdyR64/edit?usp=sharing)
+  - Afternoon/Weekend Challenges:
+  - [Practical Postgres](https://learn.launchacademy.com/lessons/practical-postgres)
+  - [News Aggregator Postgres Style]( https://learn.launchacademy.com/units/week_2/lessons/news-aggregator-postgresql)
   - Evening Reading(s):
   - [Database Persistence](https://learn.launchacademy.com/units/week_2/lessons/database-persistence)
   - [SQL Queries](https://learn.launchacademy.com/units/week_2/lessons/sql-queries)
   - [Database Relationships](https://learn.launchacademy.com/units/week_2/lessons/database-relationships)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Brussels Sprouts Recipe Comments](  https://learn.launchacademy.com/units/week_2/lessons/brussels-sprouts-comments)
 
 #
 * Thursday 11/19
   - Facilitation: Sessions Data & Authentication
-  - Afternoon Challenge: TBA
-  - Clinics: System Check Review/Prep
+  - Afternoon Challenge:
+  - [MMORPS](https://learn.launchacademy.com/lessons/mmorps)
+  - Clinics: System Check Review/Prep [notes and code](https://github.com/EliseFitz15/launcher-bucket-list-winter-15)
   - Evening Reading(s): No evening reading or challenges
   - Evening Exercise: Prepare for System Check
 
