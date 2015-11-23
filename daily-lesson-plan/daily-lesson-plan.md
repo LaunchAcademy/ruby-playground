@@ -24,12 +24,14 @@
 
 #
 * Monday 11/23
-  - Facilitation: Database Relationships & Foreign Keys
-  - Afternoon Challenge: TBA
-  - Clinics: Sinatra with DB Live code
+  - Facilitation: Database Relationships & Foreign Keys [slides](https://docs.google.com/presentation/d/1NWVWwbx1coYlksRWRT7QWKlWn0nGpS4IzoeYl5q-DzU/edit?usp=sharing)
+  - Afternoon Challenge:
+  - [Korning](https://learn.launchacademy.com/lessons/korning)
+  - Clinics: Sinatra with DB Live code [video]( https://vimeo.com/146697617) ; [code and notes](https://github.com/davidrf/pinterest_sinatra_winter_2015)
   - Evening Reading(s):
   - [SQL Joins](https://learn.launchacademy.com/units/week_3/lessons/sql-joins)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Lost Dog Collars](https://learn.launchacademy.com/lessons/lost-dog-collars)
 
 
 # Week 2
