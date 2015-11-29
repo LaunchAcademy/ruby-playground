@@ -22,6 +22,44 @@
   - Evening Exercise: TBA
 
 #
+* Wednesday 12/2
+- Facilitation: DOM Manipulation and Events
+- Afternoon Challenge: TBA
+- Evening Reading(s):
+- [Ajax](https://learn.launchacademy.com/units/week_4/lessons/ajax)
+- [Ajax and Rest](https://learn.launchacademy.com/units/week_4/lessons/ajax-and-rest)
+- Evening Exercise: TBA
+
+#
+* Tuesday 12/1
+- Facilitation: JS Functions, Scope, `this`
+- Afternoon Challenge: TBA
+- Evening Reading(s):
+- [Javascript: DOM Manipulation and Events](https://learn.launchacademy.com/units/week_4/lessons/javascript-dom-and-events)
+- Evening Exercise: TBA
+
+#
+* Monday 11/30
+- Facilitation: JS Fundamentals Intro
+- Afternoon Challenge: TBA
+- Evening Reading(s):
+- [Javascript: Basics of  Functions](https://learn.launchacademy.com/units/week_4/lessons/javascript-functions-basics)
+- [Javascript Unit Testing with Jasmine](https://learn.launchacademy.com/units/week_4/lessons/unit-testing-javascript-with-jasmine)
+- Evening Exercise: TBA
+
+# Week 3
+
+#
+* Wednesday 11/25
+  - Facilitation: Database Indexes [video]( https://vimeo.com/146951984); [slides](https://docs.google.com/presentation/d/1Ii5bOVcReHXS1sbqt7Kc4lviLJp-3DP-3bO0ppXXNbA/edit?usp=sharing)
+  - Afternoon Challenge:  [Database Indices](https://learn.launchacademy.com/lessons/database-indices)
+  - Evening Reading(s):
+  - [Database Indexes](https://learn.launchacademy.com/units/week_3/lessons/database-indexes)
+  - [Intro to Javascript]( https://learn.launchacademy.com/units/week_3/lessons/intro-to-javascript)
+  - Evening Exercise:
+  - [Nebula](https://learn.launchacademy.com/lessons/nebula)
+
+#
 * *Monday 11/30*
   - Facilitation: JS Fundamentals Intro
   - Afternoon Challenge: TBA
