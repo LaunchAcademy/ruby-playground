@@ -42,7 +42,6 @@
   - Evening Exercise:
   - [Nebula](https://learn.launchacademy.com/lessons/nebula)
 
-
 #
 * *Tuesday 11/24*
   - Facilitation: SQL Joins [video](https://vimeo.com/launchacademy/review/146793506/529e75c409); [slides](https://docs.google.com/presentation/d/1djamIqcUfKVEMvtrfgiUQZDjWrnBHP6XTgDH1lgejvE/edit?usp=sharing)
@@ -51,7 +50,6 @@
   - Evening Reading(s): No evening reading or challenges
   - [Practice](https://github.com/EliseFitz15/contact-list-postgres)
   - Evening Exercise: Prepare for System Check
-
 
 #
 * *Monday 11/23*
