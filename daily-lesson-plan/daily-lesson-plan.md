@@ -5,6 +5,22 @@
 # Week 4
 
 #
+* *Friday 12/2*
+  - Facilitation: Design & UX
+  - Afternoon Challenge: TBA
+  - Evening Reading(s):
+  - [Active Record Migrations](https://learn.launchacademy.com/units/week_4/lessons/activerecord-migrations)
+  - [Active Record CRUD](https://learn.launchacademy.com/units/week_4/lessons/activerecord-crud)
+  - Evening Exercise: TBA
+
+#
+* *Thursday 12/2*
+  - Facilitation: Ajax
+  - Afternoon Challenge: TBA
+  - Evening Reading(s):
+  - Evening Exercise:
+
+#
 * *Wednesday 12/2*
   - Facilitation: DOM Manipulation and Events
   - Afternoon Challenge: TBA
@@ -15,20 +31,24 @@
 
 #
 * *Tuesday 12/1*
-  - Facilitation: JS Functions, Scope, `this`
-  - Afternoon Challenge: TBA
+  - Facilitation: [JS-Marathon](https://learn.launchacademy.com/units/week_4/lessons/js-marathon)
+  - Afternoon Challenge: [LeaderboardJS](https://learn.launchacademy.com/units/week_4/lessons/js-functions-challenge)
+  - Clinic: Deploying with Heroku [video](https://vimeo.com/147513662); [notes](https://gist.github.com/EliseFitz15/8bf647f85c8bfbd779f8); [practice challenge](https://learn.launchacademy.com/lessons/heroku-deployment)
   - Evening Reading(s):
   - [Javascript: DOM Manipulation and Events](https://learn.launchacademy.com/units/week_4/lessons/javascript-dom-and-events)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [DOM Manipulation and Events:](https://learn.launchacademy.com/units/week_4/lessons/javascript-dom-and-events)
 
 #
 * *Monday 11/30*
   - Facilitation: JS Fundamentals Intro
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Dark Nebula](https://learn.launchacademy.com/lessons/dark-nebula)
+  - Clinics: Debugging in Javascript: [video](https://vimeo.com/147376337)
   - Evening Reading(s):
   - [Javascript: Basics of  Functions](https://learn.launchacademy.com/units/week_4/lessons/javascript-functions-basics)
   - [Javascript Unit Testing with Jasmine](https://learn.launchacademy.com/units/week_4/lessons/unit-testing-javascript-with-jasmine)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Javascript Fundamentals: Help Jerry](https://learn.launchacademy.com/lessons/js-fundamentals)
 
 # Week 3
 
