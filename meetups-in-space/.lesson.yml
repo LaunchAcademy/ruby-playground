@@ -1,9 +1,0 @@
----
-title: "Meetups in Space"
-type: "challenge"
-description: "Build a web app with Sinatra and Active Record to find places to hang out in space."
-depends: "sinatra-lunar-kitchen-ii"
-visibility: "onsite"
-ignore:
-- "meetups-in-space.md"
-- ".env"
