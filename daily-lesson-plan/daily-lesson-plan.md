@@ -2,16 +2,39 @@
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
 #
 
+# Week 5
+
+#
+* *Tuesday 12/8*
+- Facilitation: Active Record Associations
+- Afternoon Challenge: TBA
+- Clinics: Factory Girl
+- Evening Reading(s):
+- [Active Record Validations](https://learn.launchacademy.com/units/week_5/lessons/activerecord-validations)
+- Evening Exercise:
+- TBA
+
+#
+* *Monday 12/7*
+  - Facilitation: Active Record Migrations/Querying
+  - Afternoon Challenge: TBA
+  - Clinics: Active Record LiveCode
+  - Evening Reading(s):
+  - [Active Record Associations](https://learn.launchacademy.com/units/week_5/lessons/activerecord-associations)
+  - Evening Exercise:
+  - TBA
+
 # Week 4
 
 #
 * *Friday 12/2*
   - Facilitation: Design & UX
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Implementing Design with Foundation](https://learn.launchacademy.com/lessons/design-implementation)
   - Evening Reading(s):
   - [Active Record Migrations](https://learn.launchacademy.com/units/week_4/lessons/activerecord-migrations)
   - [Active Record CRUD](https://learn.launchacademy.com/units/week_4/lessons/activerecord-crud)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Contact Manager](https://learn.launchacademy.com/lessons/contact-manager)
 
 #
 * *Thursday 12/2*
