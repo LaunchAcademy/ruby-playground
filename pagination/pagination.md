@@ -2,7 +2,7 @@
 
 Everyone is familiar with the page links at the bottom of a Google search. How exactly do they implement this feature? It always shows 10 page links, 10 results per page, with the current page in the center of the list.
 
-![Google Pagination Image](http://i.imgur.com/MDpBwqm.png)
+![Google Pagination Image](https://s3.amazonaws.com/horizon-production/images/MDpBwqm.png)
 
 Write a method that returns an array of page numbers to display when given:
   * The number of results to display per page.
