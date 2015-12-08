@@ -6,11 +6,11 @@
 
 #
 * *Wednesday 12/9*
-- Facilitation: [Migration Marathon](https://learn.launchacademy.com/units/week_5/lessons/migration-marathon)
-- Afternoon Challenge: [Meetups in Space Part 2](https://learn.launchacademy.com/lessons/meetups-in-space)
-- Clinics: Associations Modeling
-- Evening Reading(s): TBA
-- Evening Exercise: TBA
+  - Facilitation: [Migration Marathon](https://learn.launchacademy.com/units/week_5/lessons/migration-marathon)
+  - Afternoon Challenge: [Meetups in Space Part 2](https://learn.launchacademy.com/lessons/meetups-in-space)
+  - Clinics: Associations Modeling
+  - Evening Reading(s): TBA
+  - Evening Exercise: TBA
 
 
 #
