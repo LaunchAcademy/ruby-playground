@@ -5,24 +5,34 @@
 # Week 5
 
 #
+* *Wednesday 12/9*
+- Facilitation: [Migration Marathon](https://learn.launchacademy.com/units/week_5/lessons/migration-marathon)
+- Afternoon Challenge: [Meetups in Space Part 2](https://learn.launchacademy.com/lessons/meetups-in-space)
+- Clinics: Associations Modeling
+- Evening Reading(s): TBA
+- Evening Exercise: TBA
+
+
+#
 * *Tuesday 12/8*
-- Facilitation: Active Record Associations
-- Afternoon Challenge: TBA
-- Clinics: Factory Girl
-- Evening Reading(s):
-- [Active Record Validations](https://learn.launchacademy.com/units/week_5/lessons/activerecord-validations)
-- Evening Exercise:
-- TBA
+  - Facilitation: Active Record Associations: [video](https://vimeo.com/148244986); [slides]( https://docs.google.com/presentation/d/1NGWtOa4W-rfH1nrfLto9IIGsL9IWFkZsjzQ_0Ao0cok/edit?usp=sharing)
+  - Afternoon Challenge: [Meetups in Space Part 2](https://learn.launchacademy.com/lessons/meetups-in-space)
+  - Clinics: Factory Girl: [video](https://vimeo.com/148280776); [notes and code](https://github.com/mlg-/factory_girl_book_club)
+  - Evening Reading(s):
+  - [Active Record Validations](https://learn.launchacademy.com/units/week_5/lessons/activerecord-validations)
+  - Evening Exercise:
+  - [Brussels Sprouts Recipe Blog with Validations](https://learn.launchacademy.com/lessons/ar-validations)
+
 
 #
 * *Monday 12/7*
   - Facilitation: Active Record Migrations/Querying
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge: [Meetups in Space](https://learn.launchacademy.com/lessons/meetups-in-space)
   - Clinics: Active Record LiveCode
   - Evening Reading(s):
   - [Active Record Associations](https://learn.launchacademy.com/units/week_5/lessons/activerecord-associations)
   - Evening Exercise:
-  - TBA
+  - [Brussels Sprouts Recipe Blog with ActiveRecord](https://learn.launchacademy.com/lessons/ar-querying-associations)
 
 # Week 4
 
@@ -37,20 +47,26 @@
   - [Contact Manager](https://learn.launchacademy.com/lessons/contact-manager)
 
 #
-* *Thursday 12/2*
-  - Facilitation: Ajax
-  - Afternoon Challenge: TBA
-  - Evening Reading(s):
-  - Evening Exercise:
+* *Thursday 12/3*
+  - Facilitation: Ajax: [video](https://vimeo.com/launchacademy/review/147738948/477c0550ed); [slides](https://docs.google.com/presentation/d/1K2kMJyG82JA_qqO3ofqmVjEc0R4V3d0LBqPkHWKjrec/edit?usp=sharing)
+  - Afternoon Challenge:
+  - [​Infinite Brussels Sprouts](https://learn.launchacademy.com/lessons/infinite-brussel-sprouts)
+  - Clinic: System Check Review: [Repo](https://github.com/davidrf/systems_check_review_javascript_winter_2015); [video](https://vimeo.com/147778209); [practice repo](https://github.com/davidrf/systems_check_javascript_practice_winter_2015)
+  - Evening Reading(s): No evening reading or challenges
+  - Evening Exercise: Prepare for System Check
 
 #
 * *Wednesday 12/2*
   - Facilitation: DOM Manipulation and Events
-  - Afternoon Challenge: TBA
+  - Afternoon Challenge:
+  - [Launchbook JS]( https://learn.launchacademy.com/lessons/launchbook-js)
+  - [Launchbook jQuery](https://learn.launchacademy.com/lessons/launchbook-jquery)
+  - Clinic: jQuery Clinic [video](https://vimeo.com/147647176); [notes](https://github.com/mlg-/space-tacos)
   - Evening Reading(s):
   - [Ajax](https://learn.launchacademy.com/units/week_4/lessons/ajax)
   - [Ajax and Rest](https://learn.launchacademy.com/units/week_4/lessons/ajax-and-rest)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Random Brussels Sprouts with Ajax](https://learn.launchacademy.com/lessons/ajax-brussels-sprouts)
 
 #
 * *Tuesday 12/1*
