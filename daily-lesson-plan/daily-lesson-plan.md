@@ -5,13 +5,33 @@
 # Week 5
 
 #
+* *Friday 12/11*
+  - Facilitation: Sinatra to Rails
+  - Afternoon Challenge: Downloading Rails
+  - Evening Reading(s):
+  - [Model View Controller](https://learn.launchacademy.com/units/3881576282/lessons/model-view-controller)
+  - [​​Intro to rails]( https://learn.launchacademy.com/units/3881576282/lessons/intro-to-rails)
+  - [Rails Routes](​​ https://learn.launchacademy.com/units/3881576282/lessons/rails-routes)
+  - [​​Rails Controllers]( https://learn.launchacademy.com/units/3881576282/lessons/rails-controllers)
+  - Evening Exercise:
+  - [On the Route to the Success](https://learn.launchacademy.com/lessons/on-the-route-to-success)
+
+#
+* *Thursday 12/10*
+  - Facilitation: APIs: [video](https://vimeo.com/148514561); [repo](https://github.com/radavis/local_events)
+  - Afternoon Challenge:
+  - [​API Dashboard](https://learn.launchacademy.com/lessons/api-dashboard)
+  - Clinic: System Check Review: [Repo]( https://github.com/davidrf/ar_systems_check_review_winter_2015); [video](https://vimeo.com/148547176); [practice repo](https://github.com/davidrf/ar_systems_check_practice_winter_2015)
+  - Evening Reading(s): No evening reading or challenges
+  - Evening Exercise: Prepare for System Check
+
+#
 * *Wednesday 12/9*
   - Facilitation: [Migration Marathon](https://learn.launchacademy.com/units/week_5/lessons/migration-marathon)
   - Afternoon Challenge: [Meetups in Space Part 2](https://learn.launchacademy.com/lessons/meetups-in-space)
-  - Clinics: Associations Modeling
-  - Evening Reading(s): TBA
-  - Evening Exercise: TBA
-
+  - Clinics: Associations Modeling [video](https://vimeo.com/148418450); [repo]( https://github.com/EliseFitz15/launcher-care); [notes](https://gist.github.com/EliseFitz15/265fbaa83735fcbd761b)
+  - Evening Reading(s): [Consuming Web APIs](https://learn.launchacademy.com/units/week_5/lessons/consuming-web-apis)
+  - Evening Exercise: [Local Events](https://learn.launchacademy.com/lessons/local-events-api)
 
 #
 * *Tuesday 12/8*
