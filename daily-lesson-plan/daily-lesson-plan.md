@@ -47,8 +47,7 @@
   - [Wings Order Form](https://learn.launchacademy.com/lessons/wings-order-form)
   - Due End of Week: [Breakable Toy Part One: Ideas](https://learn.launchacademy.com/lessons/breakable-toy-deliverable-1)
   - Due Next Monday: [Launcher Profile: How To](https://docs.google.com/document/d/1KU2DEkiJDfD1dUG9cwfGKZneSNwowsyBhWSxFOc2Ong/edit)
-  -
-  -
+
 # Week 5
 
 #
