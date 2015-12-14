@@ -2,11 +2,58 @@
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
 #
 
+# Week 6
+
+#
+* *Thursday 12/17*
+  - Facilitation: Asset Pipeline
+  - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
+  - Clinics:
+  - Evening Reading(s): No evening reading or challenges
+  - Evening Exercise: Prepare for System Check
+  - **Reminder:** Breakable Toy Part One Due
+#
+
+* *Wednesday 12/16*
+  - Facilitation: Rails Nested Routes
+  - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
+  - Clinics:
+  - Evening Reading(s):
+  - [Rails Partials](https://learn.launchacademy.com/units/2-week_6/lessons/rails-partials)
+  - [Rails Asset Pipeline](https://learn.launchacademy.com/units/2-week_6/lessons/rails-asset-pipeline)
+  - Evening Exercise: TBA
+
+#
+* *Tuesday 12/15*
+  - Facilitation: Rails Forms
+  - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
+  - Clinics:
+  - Evening Reading(s):
+  - [Rails Nested Resources](https://learn.launchacademy.com/units/2-week_6/lessons/rails-nested-resources)
+  - [Rails Simple Form](https://learn.launchacademy.com/units/2-week_6/lessons/rails-simple-form)
+  - Evening Exercise: TBA
+
+#
+* *Monday 12/14*
+  - Facilitation: Intro to Rails/Routing/Controllers
+  - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
+  - Clinics:
+  - Breakable Toy Intro
+  - Career Services Prep: [Tips](https://docs.google.com/document/d/1Vxc8CSEAPsKtnbuHGURTCUYOfpp_YKXvbMrmcXNH08A/edit), [Signups](https://docs.google.com/spreadsheets/d/1mRXijOQ4M_hmStkH0GaD4A07vB2ddVkBtpVhG_KTS0w/edit#gid=335363164)
+  - Evening Reading(s):
+  - [Rails Request](https://learn.launchacademy.com/units/2-week_6/lessons/rails-requests)
+  - [Rails Forms](https://learn.launchacademy.com/units/2-week_6/lessons/rails-forms)
+  - Evening Exercise:
+  - [Wings Order Form](https://learn.launchacademy.com/lessons/wings-order-form)
+  - Due End of Week: [Breakable Toy Part One: Ideas](https://learn.launchacademy.com/lessons/breakable-toy-deliverable-1)
+  - Due Next Monday: [Launcher Profile: How To](https://docs.google.com/document/d/1KU2DEkiJDfD1dUG9cwfGKZneSNwowsyBhWSxFOc2Ong/edit)
+  -
+  -
 # Week 5
 
 #
 * *Friday 12/11*
-  - Facilitation: Sinatra to Rails
+  - Facilitation: Sinatra to Rails: [video](https://vimeo.com/148896737)
   - Afternoon Challenge: Downloading Rails
   - Evening Reading(s):
   - [Model View Controller](https://learn.launchacademy.com/lessons/model-view-controller)
