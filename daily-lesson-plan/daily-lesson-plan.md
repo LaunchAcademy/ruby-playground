@@ -9,10 +9,10 @@
   - Facilitation: Sinatra to Rails
   - Afternoon Challenge: Downloading Rails
   - Evening Reading(s):
-  - [Model View Controller](https://learn.launchacademy.com/units/3881576282/lessons/model-view-controller)
-  - [​​Intro to rails]( https://learn.launchacademy.com/units/3881576282/lessons/intro-to-rails)
-  - [Rails Routes](​​ https://learn.launchacademy.com/units/3881576282/lessons/rails-routes)
-  - [​​Rails Controllers]( https://learn.launchacademy.com/units/3881576282/lessons/rails-controllers)
+  - [Model View Controller](https://learn.launchacademy.com/lessons/model-view-controller)
+  - [​​Intro to rails]( https://learn.launchacademy.com/lessons/intro-to-rails)
+  - [Rails Routes](​​ https://learn.launchacademy.com/lessons/rails-routes)
+  - [​​Rails Controllers]( https://learn.launchacademy.com/lessons/rails-controllers)
   - Evening Exercise:
   - [On the Route to the Success](https://learn.launchacademy.com/lessons/on-the-route-to-success)
 
