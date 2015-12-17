@@ -2,13 +2,27 @@
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
 #
 
+# Break for Holidays:
+* Mission Control closed on the holidays [12/24, 12/25, 12/31, 1/1]
+* Week 7 resumes 1/4/2016
+
 # Week 6
+
+#
+* *Friday 12/18*
+  - Facilitation: Building a Rails API
+  - Afternoon Challenge: TBA
+  - **Breakable Toy Ideas due**
+  - Evening Reading(s): [What Every Developer Should Know](https://learn.launchacademy.com/units/2-week_6/lessons/what-a-web-developer-should-know)
+  - Evening Exercise: Practice Ruby and Rails to stay fresh!
 
 #
 * *Thursday 12/17*
   - Facilitation: Asset Pipeline
   - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
   - Clinics:
+  - Impromptu Github OmniOath: [repo]( https://github.com/davidrf/github_omniauth_app_winter_2015); [video](https://vimeo.com/149324411)
+  - System Check Review: [repo](https://github.com/EliseFitz15/bathroom-reviews-w15); [practice](https://github.com/EliseFitz15/bathroom-review-practice); [video](https://vimeo.com/149346647)
   - Evening Reading(s): No evening reading or challenges
   - Evening Exercise: Prepare for System Check
   - **Reminder:** Breakable Toy Part One Due
@@ -25,13 +39,14 @@
 
 #
 * *Tuesday 12/15*
-  - Facilitation: Rails Forms
+  - Facilitation: Rails Forms: [video](https://vimeo.com/149030629) ; [slides]( https://docs.google.com/presentation/d/1Fsh1gf8v2juoHXmfbzciVZhrfBTrFoZ5TVI6_mrahAw/edit?usp=sharing)
   - Afternoon Challenge: [Rescue Mission](https://learn.launchacademy.com/lessons/rescue-mission)
   - Clinics:
   - Evening Reading(s):
   - [Rails Nested Resources](https://learn.launchacademy.com/units/2-week_6/lessons/rails-nested-resources)
   - [Rails Simple Form](https://learn.launchacademy.com/units/2-week_6/lessons/rails-simple-form)
-  - Evening Exercise: TBA
+  - Evening Exercise:
+  - [Going Camping](https://learn.launchacademy.com/lessons/nested-routes-going-camping)
 
 #
 * *Monday 12/14*
