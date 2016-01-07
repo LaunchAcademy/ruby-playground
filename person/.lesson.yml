@@ -2,6 +2,5 @@
 title: "Getting Personal"
 type: "exercise"
 description: "Model a person using classes in Ruby."
-visibility: "onsite"
 ignore:
 - "person.md"

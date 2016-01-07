@@ -3,6 +3,5 @@ title: "Monty Hall Simulation"
 type: "challenge"
 description: "Simulate a game show to determine which strategy is best."
 depends: "guess-the-number"
-visibility: "onsite"
 ignore:
 - "monty-hall-simulation.md"

@@ -3,7 +3,6 @@ title: "In Theaters Now"
 type: "challenge"
 description: "Parse JSON data to list the movies currently in theaters."
 depends: "word-counter"
-visibility: "onsite"
 ignore:
 - "in-theaters.md"
 - "in_theaters.json"

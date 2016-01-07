@@ -3,7 +3,6 @@ title: "Six Degrees of Marky Mark"
 type: "challenge"
 description: "Determine how close your favorite actor is to the center of the Hollywood universe (i.e. Marky Mark)."
 depends: "word-counter"
-visibility: "onsite"
 ignore:
 - "six-degrees-marky-mark.md"
 - "cast_members.csv"

@@ -3,6 +3,5 @@ title: "Snoop Dogg's Coffeemaker Reviews"
 type: "challenge"
 description: "Help Snoop Dogg find common words used in coffeemaker reviews."
 depends: "word-counter"
-visibility: "onsite"
 ignore:
 - "data-scraper.md"

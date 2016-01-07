@@ -2,6 +2,5 @@
 title: "The Next Train"
 type: "challenge"
 description: "When is the next train?"
-visibility: "onsite"
 ignore:
 - "next-train.md"

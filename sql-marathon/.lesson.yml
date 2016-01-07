@@ -1,7 +1,6 @@
 ---
 title: "SQL Marathon"
 type: "tutorial"
-visibility: "onsite"
 description: "Flex your hive-mind SQL brain muscles with this group challenge."
 tags: "sql, sql-select, sql-insert, sql-update, sql-delete, sql-join"
 ignore:

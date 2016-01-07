@@ -1,7 +1,6 @@
 ---
 title: "Acronym Factory"
 type: "challenge"
-visibility: "onsite"
 description: "What does NASA stand for, anyway?"
 ignore:
 - "acronym-factory.md"

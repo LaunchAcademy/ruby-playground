@@ -2,7 +2,6 @@
 title: "Compound Interest Calculator"
 type: "challenge"
 description: "Write a program to calculate the future value of an investment."
-visibility: "onsite"
 depends: "expressions"
 position: 2
 ignore:

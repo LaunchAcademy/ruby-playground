@@ -2,6 +2,5 @@
 title: "Enumerable"
 type: "exercise"
 description: "Implement Enumerable methods."
-visibility: "onsite"
 ignore:
 - "enumerable.md"

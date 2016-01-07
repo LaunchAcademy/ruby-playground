@@ -2,6 +2,5 @@
 title: "Zoo Keeper"
 type: "exercise"
 description: "Implement a series of methods that iterate over a data structure."
-visibility: "onsite"
 ignore:
 - "zoo-keeper.md"

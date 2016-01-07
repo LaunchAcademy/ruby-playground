@@ -2,6 +2,5 @@
 title: "Validations"
 type: "exercise"
 description: "Regular Expression Drills"
-visibility: "onsite"
 ignore:
 - "validations.md"

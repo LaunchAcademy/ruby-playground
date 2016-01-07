@@ -3,7 +3,6 @@ title: "Word Counter"
 type: "challenge"
 description: "Print out the most common words in a file."
 depends: "pig-latin-translator"
-visibility: "onsite"
 ignore:
 - "word-counter.md"
 - "poe_usher.txt"

@@ -2,6 +2,5 @@
 title: "Round Robin Scheduler"
 type: "exercise"
 description: "Schedule a round robin tournament."
-visibility: "onsite"
 ignore:
 - "round-robin.md"

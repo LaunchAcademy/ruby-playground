@@ -2,6 +2,5 @@
 title: "Tic-Tac-Toe"
 type: "exercise"
 description: "Determine if there is a winner in a game of Tic Tac Toe."
-visibility: "onsite"
 ignore:
 - "tic-tac-toe.md"

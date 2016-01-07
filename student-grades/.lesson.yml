@@ -3,6 +3,5 @@ title: "Student Grades"
 type: "challenge"
 description: "Write Ruby classes to represent students' grades on assignments."
 depends: "space-jams"
-visibility: "onsite"
 ignore:
 - "student-grades.md"

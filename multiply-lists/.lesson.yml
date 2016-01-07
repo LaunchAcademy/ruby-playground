@@ -2,6 +2,5 @@
 title: "Multiply Lists"
 type: "exercise"
 description: "Multiply two lists of positive integers."
-visibility: "onsite"
 ignore:
 - "multiply-lists.md"
