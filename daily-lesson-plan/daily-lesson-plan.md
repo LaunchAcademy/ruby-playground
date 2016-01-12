@@ -2,7 +2,21 @@
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
 #
 
+# Week 8
+
+#
+* *Tuesday 1/12*
+- Clinic: ActionMailer: [Video](https://vimeo.com/151571784) [Repository](https://github.com/EliseFitz15/reviews_mailer_w15)
+
+#
+* *Monday 1/11*
+- Clinic: Carrierwave/AWS File Uploads: [Repository](https://github.com/kaylarr/carrierwave/commits/master)
+
 # Week 7
+
+#
+* *Thursday 1/7*
+- Clinic: System Check 7: [Video](https://vimeo.com/151091319); [Repository]( https://github.com/justinhuynh/phone_sales)
 
 #
 * *Wednesday 1/6*
