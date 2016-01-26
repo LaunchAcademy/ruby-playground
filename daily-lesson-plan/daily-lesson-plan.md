@@ -1,6 +1,31 @@
 ## Office Hour Schedule
 [View Schedule here.](https://docs.google.com/spreadsheets/d/12HBP0b3-5bpX6mGtjHGKiu81aHu0GwtuIr8JDitG120/edit?usp=sharing)
+
 #
+### Career Day docs
+* [Screencast How-to:](https://gist.github.com/cmkoller/e702f290ab94e9ebe55d)
+* [Career Day Groups](https://gist.github.com/cmkoller/b9b697b77495e8622c4e)
+
+# Week 10
+
+#
+* *Thursday 1/28*
+- Clinic: Sorting Algorithms
+
+#
+* *Wednesday 1/27*
+- Clinic: Searching Algorithms
+
+#
+* *Tuesday 1/26*
+- Clinic: Queueing:
+
+# Week 9
+
+#
+* *Tuesday 1/19*
+- Clinic: Big O Notation: [Video](https://vimeo.com/152360452) [Slides](https://goo.gl/jPXDxm)
+
 
 # Week 8
 
