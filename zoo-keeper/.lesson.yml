@@ -2,5 +2,6 @@
 title: "Zoo Keeper"
 type: "exercise"
 description: "Implement a series of methods that iterate over a data structure."
+tags: "ruby, iteration"
 ignore:
 - "zoo-keeper.md"

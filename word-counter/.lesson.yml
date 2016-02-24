@@ -2,7 +2,7 @@
 title: "Word Counter"
 type: "challenge"
 description: "Print out the most common words in a file."
-depends: "pig-latin-translator"
+tags: "ruby, hashes, arrays"
 ignore:
 - "word-counter.md"
 - "poe_usher.txt"

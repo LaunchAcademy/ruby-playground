@@ -1,7 +1,0 @@
----
-title: "Amazon Orders"
-type: "challenge"
-description: "Write Ruby classes to represent online orders."
-depends: "space-jams"
-ignore:
-- "amazon-orders.md"

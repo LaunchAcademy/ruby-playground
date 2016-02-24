@@ -2,7 +2,7 @@
 title: "Grade Averages"
 type: "challenge"
 description: "Calculate the average, max, and min grades for a list of students."
-depends: "pig-latin-translator"
+tags: "json, ruby"
 ignore:
 - "grade-averages.md"
 - "students.json"

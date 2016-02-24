@@ -2,6 +2,7 @@
 title: "Acronym Factory"
 type: "challenge"
 description: "What does NASA stand for, anyway?"
+tags: "oop"
 ignore:
 - "acronym-factory.md"
 - "wordlist.txt"

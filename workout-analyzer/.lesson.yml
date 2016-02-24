@@ -1,8 +1,0 @@
----
-title: "Workout Analyzer"
-type: "challenge"
-description: "More practice on object-oriented design"
-depends: "space-jams"
-ignore:
-- "workout-analyzer.md"
-- "workouts.csv"
