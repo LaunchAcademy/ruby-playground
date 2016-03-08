@@ -1,0 +1,7 @@
+---
+title: "MMORPS"
+type: "challenge"
+description: "Build a massively multiplayer online rock, paper, scissors game in the browser using sessions to track game state."
+tags: "sinatra, sessions, cookies"
+ignore:
+- "mmorps.md"
