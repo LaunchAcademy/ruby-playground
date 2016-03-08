@@ -1,0 +1,5 @@
+---
+title: "Sessions"
+type: "article"
+description: "Describes how HTTP cookies can be used to maintain a user's session from request to request."
+tags: "http, cookies, sessions"
