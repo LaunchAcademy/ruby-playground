@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title><%= content_for?(:title) ? yield(:title) : "Movie Shack Hut" %></title>
+
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "vendor/modernizr" %>
+    <%= csrf_meta_tags %>
+  </head>
+
+  <body>
+    <!-- nav bar -->
+    <nav class="top-bar" data-topbar>
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="#"><i class="fi-video"></i></a></h1>
+        </li>
+      </ul>
+
+      <section class="top-bar-section">
+        <ul class="left">
+          <li><a href="#">Movie Shack Hut</a></li>
+          <li><a href="#">"Your source for superiour video formats"</a></li>
+        </ul>
+      </section>
+    </nav>
+
+    <!-- flash messages -->
+    <% flash.each do |type, message| %>
+      <div data-alert class="alert-box <%= type %>">
+        <%= message %>
+        <a href="#" class="close">&times;</a>
+      </div>
+    <% end %>
+
+    <!-- main content -->
+    <%= yield %>
+
+  </body>
+</html>
