@@ -1,6 +1,0 @@
----
-title: "The Next Train"
-type: "challenge"
-description: "When is the next train?"
-ignore:
-- "next-train.md"
