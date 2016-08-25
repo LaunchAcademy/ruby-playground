@@ -68,8 +68,8 @@ irb(main):003:0> operation
 
 The user entered in `a` and now the variable `operation` points to the string `a`. Something similar would happen for any other letter that was entered. What happens if a user enters something other than `a`, `s`, `m`, or `d`? More than occasionally, as programmers, we will come across issues like these. It's worth introducing a concept here called *rubber ducking*.
 
-![alt](https://s3.amazonaws.com/horizon-production/images/release-the-quackin-meme.jpg)
-<sub>http://en.wikipedia.org/wiki/Rubber_Duck_%28sculpture%29</sub>
+[![alt](https://s3.amazonaws.com/horizon-production/images/release-the-quackin-meme.jpg)]
+(http://en.wikipedia.org/wiki/Rubber_Duck_%28sculpture%29)
 
 Being stuck is part of being a programmer. How do we deal with being stuck? [Rubber duck debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging), or just 'Rubber ducking,' is the process of speaking to an inanimate object (the rubber duck) about a programming problem in order to come across a solution to the problem. Our brain works in mysterious ways. Often, when we suffer through a problem we magically come across a solution after getting away from it for a little while. In the same way, when we work through a programming problem, we might come across a stumbling block. Explaining this stumbling block to something -- like a rubber duck -- can help us clarify ourselves. Perhaps our code is intended to do one thing but it appears to do another. Explaining this discrepancy out loud can help us arrive at a solution. Let's see how a rubber ducking conversation might go about our question:
 
@@ -308,5 +308,3 @@ The quotient is 3.0
 ```
 
 Great! Whew, we've done a lot of things here. We've combined what we've learned about variables, boolean logic, flow control and conditionals along with debugging our code. You'll be thinking like this a lot more in the future!
-
-

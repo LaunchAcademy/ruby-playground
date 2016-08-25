@@ -5,10 +5,11 @@ Everyone is familiar with the page links at the bottom of a Google search. How e
 ![Google Pagination Image](https://s3.amazonaws.com/horizon-production/images/MDpBwqm.png)
 
 Write a method that returns an array of page numbers to display when given:
-  * The number of results to display per page.
-  * The total number of pages to display in the list.
-  * The total number of results.
-  * The current page.
+
+* The number of results to display per page.
+* The total number of pages to display in the list.
+* The total number of results.
+* The current page.
 
 ### Sample Usage
 
