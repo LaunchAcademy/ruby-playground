@@ -3,7 +3,7 @@ Snoop Dogg loves coffee makers. In his spare time, he reads coffee maker reviews
 ### Learning Objectives
 
 * Learn how to scrape information from a website and extract relevant information.
-* Use the [Net::HTTP library][net-http-library] to retrieve web pages programatically.
+* Use the [Net::HTTP library][net-http-library] to retrieve web pages programmatically.
 
 ### Instructions
 
