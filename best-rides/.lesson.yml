@@ -1,7 +1,7 @@
 ---
-title: "Favorite Rides"
+title: "Best Rides"
 type: "exercise"
 description: "Use input and output to share your favorite rides with friends"
 tags: "io"
 ignore:
-- "best_rides.md"
+- "best-rides.md"
