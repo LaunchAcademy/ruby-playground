@@ -1,0 +1,8 @@
+---
+title: "Workout Analyzer"
+type: "challenge"
+description: "More practice on object-oriented design"
+tags: "oop, object-composition"
+ignore:
+- "workout-analyzer.md"
+- "workouts.csv"

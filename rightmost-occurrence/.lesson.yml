@@ -1,0 +1,7 @@
+---
+title: "Rightmost Occurrence"
+type: "exercise"
+description: "Create a method to find the rightmost occurrence of a letter"
+tags: "ignition"
+ignore:
+  - "rightmost-occurance.md"

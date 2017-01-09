@@ -1,0 +1,7 @@
+---
+title: "Student Grades"
+type: "challenge"
+description: "Write Ruby classes to represent students' grades on assignments."
+tags: "oop, testing"
+ignore:
+- "student-grades.md"

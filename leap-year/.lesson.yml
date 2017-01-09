@@ -1,0 +1,7 @@
+---
+title: "Leap Year"
+type: "exercise"
+description: "Determine if a given year is a leap year."
+tags: "ignition"
+ignore:
+- "leap-year.md"

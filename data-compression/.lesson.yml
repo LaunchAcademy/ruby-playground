@@ -1,0 +1,10 @@
+---
+title: "Data Compression"
+type: "challenge"
+description: "Write a program to compress a text file."
+depends: "guess-the-number"
+ignore:
+- "data-compression.md"
+- "moby_dick.txt"
+- "fundamental_kant.txt"
+- "the_last_question.txt"

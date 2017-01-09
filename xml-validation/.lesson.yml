@@ -1,0 +1,13 @@
+---
+title: "XML Validation"
+type: "challenge"
+description: "Validate that a given XML document is well-formed."
+tags: "xml"
+ignore:
+- "xml-validation.md"
+- "samples/invalid/missing-tag.xml"
+- "samples/invalid/wrong-order.xml"
+- "samples/invalid/invalid-syntax.xml"
+- "samples/valid/simple.xml"
+- "samples/valid/MozartTrio.xml"
+- "samples/valid/books.xml"

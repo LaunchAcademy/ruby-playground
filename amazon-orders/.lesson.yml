@@ -1,0 +1,7 @@
+---
+title: "Amazon Orders"
+type: "challenge"
+description: "Write Ruby classes to represent online orders."
+tags: "oop, testing, rspec"
+ignore:
+- "amazon-orders.md"

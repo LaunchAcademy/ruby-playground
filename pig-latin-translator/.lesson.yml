@@ -1,0 +1,7 @@
+---
+title: "Pig Latin Translator"
+type: "challenge"
+description: "Perform machine translation from English to Pig Latin."
+ignore:
+- "pig-latin-translator.md"
+- "test.rb"
