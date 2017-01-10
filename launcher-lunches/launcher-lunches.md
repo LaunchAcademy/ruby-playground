@@ -8,7 +8,7 @@ file.
 
 ## Questions
 
-- Where can I find the most expensize menu item?
+- Where can I find the most expensive menu item?
 - For each restaurant, how much would it cost to order one of each item?
 - How many eggs should the restaurant manager order to cover all 3
 restaurants for 1 month?
