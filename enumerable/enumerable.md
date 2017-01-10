@@ -17,4 +17,4 @@ map(numbers) { |x| x * x }
 # => [9, 25, 4, 36]
 ```
 
-[enumerable]: http://ruby-doc.org/core-2.1.2/Enumerable.html
+[enumerable]: http://ruby-doc.org/core/Enumerable.html
