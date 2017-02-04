@@ -2,7 +2,7 @@
 
 ## Instructions
 
-*Earn Hash Methods!*
+*Learn Hash Methods!*
 
 In this kata you'll implement a series of methods that iterate over
 a hash of animals for a zookeeper.  Each method should return a new hash
